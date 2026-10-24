@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Contents claim {{ p.sweep.id }}</title>
+<style>
+  :root { --paper: #fbfaf7; --ink: #1f2328; --muted: #5b636b; --rule: #dfe2e5; --accent: #0e5e57; --warn: #8a5a00; --bad: #b3261e; --soft: #eef2f1; }
+  body { margin: 0 auto; max-width: 1200px; padding: 24px 16px 64px; background: var(--paper); color: var(--ink); font: 15px/1.5 system-ui, sans-serif; }
+  h1 { font-size: 24px; margin: 0 0 4px; } h2 { font-size: 18px; margin: 36px 0 8px; border-bottom: 2px solid var(--accent); padding-bottom: 4px; }
+  h3 { font-size: 15px; margin: 20px 0 4px; }
+  .muted { color: var(--muted); } .warn { color: var(--warn); } .bad { color: var(--bad); }
+  .banner { background: #fbeee0; border: 1px solid #e8c9a0; border-radius: 8px; padding: 10px 12px; margin: 12px 0; }
+  .guide { background: #fff; border: 1px solid var(--rule); border-radius: 8px; padding: 4px 16px; }
+  .guide li { margin: 4px 0; }
+  .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 12px; margin: 16px 0; }
+  .card { background: #fff; border: 1px solid var(--rule); border-radius: 8px; padding: 12px; }
+  .card b { display: block; font-size: 22px; }
+  table { width: 100%; border-collapse: collapse; background: #fff; font-size: 13px; }
+  th, td { border-bottom: 1px solid var(--rule); padding: 6px; text-align: left; vertical-align: top; }
+  th { background: #f1f3f4; position: sticky; top: 0; }
+  td.n { text-align: right; white-space: nowrap; }
+  .scroll { overflow-x: auto; }
+  td.name { min-width: 200px; } td.n div { white-space: normal; }
+  a { color: var(--accent); }
+  img.spine { height: 72px; max-width: 120px; object-fit: contain; border: 1px solid var(--rule); border-radius: 4px; background: #f1f3f4; }
+  .tag { display: inline-block; border-radius: 4px; padding: 0 6px; font-size: 12px; background: var(--soft); white-space: nowrap; }
+  .tag.unidentified { background: #f3efe6; } .tag.needs_appraisal, .tag.range { background: #fbeee0; }
+  .check { display: flex; gap: 12px; background: #fff; border-bottom: 1px solid var(--rule); padding: 8px; font-size: 13px; }
+  .check img.spine { width: 64px; flex: none; }
+  .check > div { flex: 1; min-width: 0; overflow-wrap: anywhere; } .check ul { margin: 4px 0 0; padding-left: 18px; }
+</style>
+</head>
+<body>
+{% set label = {"identified": "Identified", "unidentified": "Not identified", "needs_appraisal": "Needs appraisal", "priced": "Priced", "range": "Price range"} %}
+<h1>Contents claim: home library</h1>
+<p class="muted">Sweep {{ p.sweep.id }}, captured {{ p.sweep.captured_at.strftime("%d %b %Y %H:%M UTC") }}, {{ p.sweep.duration_s|round|int }} s of video, {{ p.sweep.frames }} frames{% if p.sweep.device %}, {{ p.sweep.device }}{% endif %}. Priced for {{ p.sweep.country }} in {{ p.sweep.currency }}. Packet ready {{ ready }} after the sweep ended.</p>
+{% if not p.final %}<div class="banner"><b>First packet.</b> It was written at the deadline while some lines were still being identified or priced. Those lines are listed under "What a person needs to check", and this report is replaced when the work finishes.</div>{% endif %}
+
+<div class="cards">
+  <div class="card">Books<b>{{ p.totals.book_count }}</b>{{ p.totals.books_identified }} identified, {{ p.totals.books_unidentified }} not identified</div>
+  <div class="card">Books, replacement<b>{{ money(p.totals.books_replacement_cost) }}</b>used value {{ money(p.totals.books_used_value) }}</div>
+  <div class="card">Other contents<b>{{ money(p.totals.items_replacement_cost_low) }} to {{ money(p.totals.items_replacement_cost_high) }}</b>{{ p.items|length }} items</div>
+  <div class="card">Shelf run<b>{{ "%.2f"|format(p.totals.shelf_run_m) }} m</b>of the spines that were measured</div>
+  <div class="card">Floor area<b>{{ area(p.room.floor_area_m2, p.room.floor_area_ft2) }}</b>walls {{ area(p.room.wall_area_m2, p.room.wall_area_ft2) }}</div>
+  <div class="card">To check<b>{{ reviews|length }} lines</b>{{ p.totals.excluded_from_totals }} left out of the totals until checked</div>
+</div>
+
+<h2>How to read this claim</h2>
+<ul class="guide">
+  <li><b>Identified</b> means the spine was read and a seller or catalogue page confirmed the book. <b>Not identified</b> means the spine could not be read well enough; no title is guessed.</li>
+  <li><b>Replacement</b> is the price of a new copy today; <b>used</b> is a second-hand listing in the condition shown under it. Each price links to the page it was read on. <b>Converted</b> means the page priced it in another currency and it was converted at that day's ECB rate.</li>
+  <li>Totals add up only the lines with a confirmed price. Lines without one are counted as left out and listed under "What a person needs to check".</li>
+  <li>The picture on each line is what the camera saw; <b>Seen in</b> links open the full frames.</li>
+</ul>
+
+<h2>Room</h2>
+{% if p.room.floor_area_m2 is none %}
+{% set why = p.room.scale_method or "the room was not measured" %}<p>{{ why[:1]|upper }}{{ why[1:] }}.</p>
+{% else %}
+<div class="scroll"><table>
+  <tr><th>Length</th><th>Width</th><th>Ceiling</th><th>Floor</th><th>Walls, net of openings</th><th>Walls, gross</th><th>Shelved wall</th><th>Shape</th></tr>
+  <tr><td>{{ metres(p.room.length_m) }}</td><td>{{ metres(p.room.width_m) }}</td><td>{{ metres(p.room.height_m) }}</td>
+    <td>{{ area(p.room.floor_area_m2, p.room.floor_area_ft2) }}</td><td>{{ area(p.room.wall_area_m2, p.room.wall_area_ft2) }}</td>
+    <td>{{ area(p.room.gross_wall_area_m2, None) }}</td><td>{{ area(p.room.shelved_wall_area_m2, p.room.shelved_wall_area_ft2) }}</td><td>{{ p.room.shape or "not measured" }}</td></tr>
+</table></div>
+<p class="muted">How it was measured: {{ p.room.scale_method }}{% if p.room.openings %}. Openings: {% for o in p.room.openings %}{{ o.kind }} {{ "%.2f"|format(o.width_m) }} x {{ "%.2f"|format(o.height_m) }} m (<a href="{{ o.frame_ref }}">frame</a>){% if not loop.last %}, {% endif %}{% endfor %}{% endif %}.</p>
+{% endif %}
+
+<h2>Books</h2>
+<div class="scroll"><table>
+  <tr><th>Seen</th><th>Book</th><th>Status</th><th>Shelf, position</th><th>Spine H x T cm</th><th>Replacement</th><th>Used</th><th>Seen in</th></tr>
+  {% for b in p.books %}
+  <tr>
+    <td>{% if b.crop_ref %}<a href="{{ b.frame_ref }}"><img class="spine" src="{{ b.crop_ref }}" alt="spine of {{ b.id }}" loading="lazy"></a>{% endif %}</td>
+    <td class="name"><b>{{ b.title }}</b>{% if b.author %}<div>{{ b.author }}</div>{% endif %}{% if b.edition or b.publisher %}<div class="muted">{{ b.edition }}{% if b.edition and b.publisher %}, {% endif %}{{ b.publisher }}</div>{% endif %}{% if b.isbn %}<div class="muted">ISBN {{ b.isbn }}</div>{% endif %}
+      {% if not b.title %}<span class="muted">{% if b.spine_text %}spine reads "{{ b.spine_text }}"{% else %}no readable text{% endif %}</span>{% endif %}
+      {% for n in b.user_notes %}<div class="warn">policyholder said: {{ n }}</div>{% endfor %}
+      <div class="muted">{{ b.id }}</div></td>
+    <td><span class="tag {{ b.status }}">{{ label[b.status] }}</span>{% if b.id_confidence is not none %}<div class="muted">confidence {{ "%.0f"|format(b.id_confidence * 100) }}%</div>{% endif %}
+      {% if b.status != "identified" %}{% for r in reviews.get(b.id, []) if r.action in ("identify", "appraise") %}<div class="muted">{{ r.reason }}</div>{% endfor %}{% endif %}</td>
+    <td>{{ b.shelf }}, {{ b.position }}</td>
+    <td class="n">{% if b.spine_height_cm %}{{ "%.1f"|format(b.spine_height_cm) }} x {{ "%.1f"|format(b.spine_thickness_cm) }}{% else %}<span class="muted">not measured</span>{% endif %}</td>
+    <td class="n">{{ offer(b.replacement_cost) }}{% if b.replacement_cost.source %}<div class="muted">{{ b.replacement_cost.source }}</div>{% endif %}{% if b.replacement_cost.condition_assumed %}<div class="muted">{{ b.replacement_cost.condition_assumed }}</div>{% endif %}</td>
+    <td class="n">{{ offer(b.used_value) }}{% if b.used_value.source %}<div class="muted">{{ b.used_value.source }}</div>{% endif %}{% if b.used_value.condition_assumed %}<div class="muted">{{ b.used_value.condition_assumed }}</div>{% endif %}</td>
+    <td>{% for f in b.frame_refs %}<a href="{{ f }}">{{ loop.index }}</a> {% endfor %}</td>
+  </tr>
+  {% endfor %}
+</table></div>
+
+<h2>Other contents</h2>
+<div class="scroll"><table>
+  <tr><th>Seen</th><th>Item</th><th>Category</th><th>Material</th><th>W x H cm</th><th>Status</th><th>Replacement</th><th>Sources</th><th>Seen in</th></tr>
+  {% for i in p.items %}
+  <tr>
+    <td>{% if i.crop_ref %}<a href="{{ i.frame_ref }}"><img class="spine" src="{{ i.crop_ref }}" alt="{{ i.description }}" loading="lazy"></a>{% endif %}</td>
+    <td class="name">{{ i.description }}{% if i.brand_model %}<div class="muted">{{ i.brand_model }}</div>{% endif %}{% for n in i.user_notes %}<div class="warn">policyholder said: {{ n }}</div>{% endfor %}<div class="muted">{{ i.id }}</div></td>
+    <td>{{ i.category }}</td><td>{{ i.material }}</td>
+    <td class="n">{% if i.dimensions_cm.w is not none %}{{ "%.0f x %.0f"|format(i.dimensions_cm.w, i.dimensions_cm.h) }}{% else %}<span class="muted" title="{{ i.size_method }}">not measured</span>{% endif %}</td>
+    <td><span class="tag {{ i.status }}">{{ label[i.status] }}</span></td>
+    <td class="n">{% if i.replacement_cost.low is not none %}{{ money(i.replacement_cost.low) }}{% if i.replacement_cost.high != i.replacement_cost.low %} to {{ money(i.replacement_cost.high) }}{% endif %}{% if i.replacement_cost.converted %} <span class="warn">converted</span>{% endif %}{% else %}-{% endif %}</td>
+    <td>{% for u in i.replacement_cost.url.split() %}<a href="{{ u }}">{{ loop.index }}</a> {% endfor %}<div class="muted">{{ i.replacement_cost.source }}</div></td>
+    <td>{% for f in i.frame_refs %}<a href="{{ f }}">{{ loop.index }}</a> {% endfor %}</td>
+  </tr>
+  {% endfor %}
+</table></div>
+
+<h2>What a person needs to check</h2>
+<p class="muted">Every line the system is not sure of, grouped by what to do.</p>
+{% for heading, why, rows in groups %}
+<h3>{{ heading }} ({{ rows|length }})</h3>
+<p class="muted">{{ why }}</p>
+{% for ref, line, reasons in rows %}<div class="check">
+  {% if line and line.crop_ref %}<img class="spine" src="{{ line.crop_ref }}" alt="{{ ref }}" loading="lazy">{% endif %}
+  <div><b>{{ (line.title or line.description) if line else ref }}</b>{% if line and line.shelf %} <span class="muted">shelf {{ line.shelf }}, position {{ line.position }}</span>{% endif %} <span class="muted">{{ ref }}</span>
+    <ul>{% for r in reasons %}<li>{{ r }}</li>{% endfor %}</ul></div>
+</div>{% endfor %}
+{% endfor %}
+
+{% if p.excluded_by_user %}
+<h2>Left out at the policyholder's request</h2>
+<div class="scroll"><table>
+  <tr><th>Line</th><th>What it is</th><th>Where</th><th>What they said</th></tr>
+  {% for e in p.excluded_by_user %}<tr><td>{{ e.ref_id }}</td><td>{{ e.description }}</td><td>{% if e.shelf %}{{ e.shelf }}, {{ e.position }}{% endif %}</td><td>{{ e.said }}</td></tr>{% endfor %}
+</table></div>
+{% endif %}
+
+<h2>Second market: {{ second_country }}</h2>
+<p class="muted">The same books priced again with only the market setting changed, to show the country and currency are settings.</p>
+<div class="scroll"><table>
+  <tr><th>Book</th><th>Title</th><th>Replacement</th><th>Used</th></tr>
+  {% for s in p.second_market %}<tr><td>{{ s.book_id }}</td><td>{{ titles.get(s.book_id, "") }}</td><td class="n">{{ offer(s.replacement_cost, s.currency) }}</td><td class="n">{{ offer(s.used_value, s.currency) }}</td></tr>{% endfor %}
+</table></div>
+
+<h2>Cost and time per stage</h2>
+<div class="scroll"><table>
+  <tr><th>Stage</th><th>Model calls</th><th>Tokens in</th><th>Tokens out</th><th>Time</th><th>USD (list price)</th></tr>
+  {% for s in p.stages %}<tr><td>{{ s.name }}</td><td class="n">{{ s.calls }}</td><td class="n">{{ "{:,}".format(s.tokens_in) }}</td><td class="n">{{ "{:,}".format(s.tokens_out) }}</td><td class="n">{{ "%.0f"|format((s.finished_at - s.started_at).total_seconds()) }} s</td><td class="n">{{ "%.3f"|format(s.usd) }}</td></tr>{% endfor %}
+  <tr><td><b>Total</b></td><td></td><td></td><td></td><td></td><td class="n"><b>{{ "%.3f"|format(p.cost_usd) }}</b></td></tr>
+</table></div>
+
+<h2>Assumptions</h2>
+<ul>{% for a in p.assumptions %}<li>{{ a }}</li>{% endfor %}</ul>
+<p class="muted">Totals are computed in code from the lines above, never by a language model.</p>
+</body>
+</html>

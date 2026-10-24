@@ -1,0 +1,6094 @@
+{
+ "sweep": {
+  "id": "replay-20261024-144601",
+  "captured_at": "2026-10-24T14:46:01.376588Z",
+  "device": "replay of photo.jpg",
+  "duration_s": 29.0,
+  "country": "India",
+  "currency": "INR",
+  "frames": 30
+ },
+ "room": {
+  "length_m": null,
+  "width_m": null,
+  "height_m": null,
+  "floor_area_m2": null,
+  "floor_area_ft2": null,
+  "wall_area_m2": null,
+  "wall_area_ft2": null,
+  "gross_wall_area_m2": null,
+  "shelved_wall_area_m2": null,
+  "shelved_wall_area_ft2": null,
+  "shape": "",
+  "corners_m": [],
+  "openings": [],
+  "scale_method": "no frame showed the A4 sheet on the floor, so the room was not measured",
+  "confidence": null,
+  "frame_refs": []
+ },
+ "books": [
+  {
+   "id": "B32",
+   "shelf": "U1-S1",
+   "position": 1,
+   "frame_ref": "frames/00017.jpg",
+   "status": "identified",
+   "title": "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything",
+   "author": "Steven D. Levitt & Stephen J. Dubner",
+   "edition": "",
+   "isbn": "",
+   "spine_height_cm": null,
+   "spine_thickness_cm": null,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": 350.0,
+    "source": "CommonFolks",
+    "url": "https://www.commonfolks.in/books/d/freakonomics",
+    "retrieved_at": "2026-10-24T14:55:36.193121Z",
+    "converted": false,
+    "original_amount": 350.0,
+    "original_currency": "INR",
+    "quote": "₹\n350",
+    "notes": [
+     "the page shows it sold out or unavailable"
+    ]
+   },
+   "used_value": {
+    "amount": 175.0,
+    "source": "The Bookworm",
+    "url": "https://thebookworm.co.in/product/freakonomics-used-paperback-good-condition-2",
+    "retrieved_at": "2026-10-24T14:55:37.546383Z",
+    "condition_assumed": "used, paperback, good condition",
+    "converted": false,
+    "original_amount": 175.0,
+    "original_currency": "INR",
+    "quote": "₹ 175.00",
+    "notes": []
+   },
+   "publisher": "",
+   "spine_text": "FREAKONOMICS STEVEN D. LEVITT & STEPHEN J. DUBNER",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg",
+    "frames/00020.jpg",
+    "frames/00021.jpg"
+   ],
+   "box_2d": [
+    171,
+    190,
+    1000,
+    212
+   ],
+   "size_method": "no whole sighting in a frame with a known-size object",
+   "evidence": "The spine clearly prints 'FREAKONOMICS' and 'STEVEN D. LEVITT & STEPHEN J. DUBNER', which matches the work confirmed on Crossword.in and SapnaOnline.",
+   "user_notes": []
+  },
+  {
+   "id": "B1",
+   "shelf": "U1-S1",
+   "position": 2,
+   "frame_ref": "frames/00017.jpg",
+   "status": "identified",
+   "title": "The Undercover Economist",
+   "author": "Tim Harford",
+   "edition": "Paperback",
+   "isbn": "9780349119854",
+   "spine_height_cm": null,
+   "spine_thickness_cm": null,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": 395.0,
+    "source": "MyPustak",
+    "url": "https://www.mypustak.com/book/the-undercover-economist-tim-harford-9780349119854/1824459",
+    "retrieved_at": "2026-10-24T14:53:34.582762Z",
+    "converted": false,
+    "original_amount": 395.0,
+    "original_currency": "INR",
+    "quote": "₹\n395",
+    "notes": []
+   },
+   "used_value": {
+    "amount": 275.0,
+    "source": "Kitabay",
+    "url": "https://kitabay.com/products/the-undercover-economist",
+    "retrieved_at": "2026-10-24T14:53:38.082274Z",
+    "condition_assumed": "Gently Used",
+    "converted": false,
+    "original_amount": 275.0,
+    "original_currency": "INR",
+    "quote": "Rs. 275",
+    "notes": [
+     "the page shows it sold out or unavailable"
+    ]
+   },
+   "publisher": "Abacus",
+   "spine_text": "THE UNDERCOVER ECONOMIST TIM HARFORD",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg",
+    "frames/00020.jpg",
+    "frames/00021.jpg"
+   ],
+   "box_2d": [
+    59,
+    205,
+    1000,
+    232
+   ],
+   "size_method": "no whole sighting in a frame with a known-size object",
+   "evidence": "The spine shows 'THE UNDERCOVER ECONOMIST', 'TIM HARFORD', and the Abacus oval logo at the foot, matching the 2007 Abacus paperback edition (ISBN 9780349119854) confirmed by Hachette India and Flipkart.",
+   "user_notes": []
+  },
+  {
+   "id": "B33",
+   "shelf": "U1-S1",
+   "position": 3,
+   "frame_ref": "frames/00017.jpg",
+   "status": "identified",
+   "title": "Fast Food Nation: What the All-American Meal Is Doing to the World",
+   "author": "Eric Schlosser",
+   "edition": "Paperback",
+   "isbn": "",
+   "spine_height_cm": null,
+   "spine_thickness_cm": null,
+   "id_confidence": 0.98,
+   "replacement_cost": {
+    "amount": 872.0,
+    "source": "Bookscape",
+    "url": "https://bookscape.com/product-details/fast-food-nation-9780141006871",
+    "retrieved_at": "2026-10-24T14:53:58.314491Z",
+    "converted": false,
+    "original_amount": 872.0,
+    "original_currency": "INR",
+    "quote": "₹\n872",
+    "notes": [
+     "the page shows it sold out or unavailable"
+    ]
+   },
+   "used_value": {
+    "amount": 195.0,
+    "source": "The Bookworm",
+    "url": "https://thebookworm.co.in/product/fast-food-nation-the-dark-side-of-the-allamerican-meat-usedpaper-back-good-condition",
+    "retrieved_at": "2026-10-24T14:56:06.764512Z",
+    "condition_assumed": "used,paper back, good condition",
+    "converted": false,
+    "original_amount": 195.0,
+    "original_currency": "INR",
+    "quote": "₹ 195.00",
+    "notes": []
+   },
+   "publisher": "Penguin Books",
+   "spine_text": "FAST FOOD NATION ERIC SCHLOSSER",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg",
+    "frames/00020.jpg",
+    "frames/00021.jpg"
+   ],
+   "box_2d": [
+    55,
+    226,
+    1000,
+    252
+   ],
+   "size_method": "no whole sighting in a frame with a known-size object",
+   "evidence": "The light blue spine clearly shows 'FAST FOOD NATION', 'ERIC SCHLOSSER', a carton of fries icon at the top, and the Penguin logo at the bottom, confirmed by Bookscape and Bookchor catalogue pages.",
+   "user_notes": []
+  },
+  {
+   "id": "B34",
+   "shelf": "U1-S1",
+   "position": 4,
+   "frame_ref": "frames/00017.jpg",
+   "status": "identified",
+   "title": "Why Do People Hate America?",
+   "author": "Ziauddin Sardar, Merryl Wyn Davies",
+   "edition": "",
+   "isbn": "",
+   "spine_height_cm": null,
+   "spine_thickness_cm": null,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": 274.38,
+    "source": "AbeBooks",
+    "url": "https://www.abebooks.com/9781840465259/Why-People-Hate-America-Sardar-1840465255/plp",
+    "retrieved_at": "2026-10-24T14:53:39.348219Z",
+    "converted": true,
+    "original_amount": 2.89,
+    "original_currency": "USD",
+    "quote": "US$ 2.89",
+    "notes": [
+     "converted from USD at the ECB rate of 2026-10-23"
+    ]
+   },
+   "used_value": {
+    "amount": 274.38,
+    "source": "AbeBooks",
+    "url": "https://www.abebooks.com/9781840465259/Why-People-Hate-America-Sardar-1840465255/plp",
+    "retrieved_at": "2026-10-24T14:54:45.643058Z",
+    "condition_assumed": "Good",
+    "converted": true,
+    "original_amount": 2.89,
+    "original_currency": "USD",
+    "quote": "US$ 2.89",
+    "notes": [
+     "converted from USD at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "",
+   "spine_text": "WHY DO PEOPLE HATE AMERICA? Ziauddin Sardar Merryl Wyn Davies",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg",
+    "frames/00020.jpg",
+    "frames/00021.jpg"
+   ],
+   "box_2d": [
+    46,
+    245,
+    1000,
+    270
+   ],
+   "size_method": "no whole sighting in a frame with a known-size object",
+   "evidence": "The spine clearly prints the title 'WHY DO PEOPLE HATE AMERICA?' and authors 'Ziauddin Sardar' and 'Merryl Wyn Davies', which matches catalogue and retailer records for this work.",
+   "user_notes": []
+  },
+  {
+   "id": "B12",
+   "shelf": "U1-S1",
+   "position": 5,
+   "frame_ref": "frames/00017.jpg",
+   "status": "identified",
+   "title": "No Logo",
+   "author": "Naomi Klein",
+   "edition": "Paperback",
+   "isbn": "",
+   "spine_height_cm": null,
+   "spine_thickness_cm": null,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": 678.0,
+    "source": "Rekhtabooks",
+    "url": "https://rekhtabooks.com/products/no-logo-10th-anniversary-edition",
+    "retrieved_at": "2026-10-24T14:55:03.362603Z",
+    "converted": false,
+    "original_amount": 678.0,
+    "original_currency": "INR",
+    "quote": "\"price\":67800",
+    "notes": []
+   },
+   "used_value": {
+    "amount": 275.0,
+    "source": "The Bookworm",
+    "url": "https://thebookworm.co.in/product/no-logo-usedpaper-back-good-condition",
+    "retrieved_at": "2026-10-24T14:54:38.537044Z",
+    "condition_assumed": "used,paper back, good condition",
+    "converted": false,
+    "original_amount": 275.0,
+    "original_currency": "INR",
+    "quote": "₹ 275.00",
+    "notes": []
+   },
+   "publisher": "",
+   "spine_text": "NO LOGO NAOMI KLEIN",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg",
+    "frames/00020.jpg",
+    "frames/00021.jpg"
+   ],
+   "box_2d": [
+    32,
+    265,
+    1000,
+    299
+   ],
+   "size_method": "no whole sighting in a frame with a known-size object",
+   "evidence": "The spine clearly displays the title 'NO LOGO' in red and black-on-white block lettering and the author 'NAOMI KLEIN', confirmed by Crossword and Rekhta Books catalogue pages.",
+   "user_notes": []
+  },
+  {
+   "id": "B23",
+   "shelf": "U1-S1",
+   "position": 6,
+   "frame_ref": "frames/00017.jpg",
+   "status": "identified",
+   "title": "Why Not Me?",
+   "author": "Al Franken",
+   "edition": "Paperback",
+   "isbn": "9780141018423",
+   "spine_height_cm": null,
+   "spine_thickness_cm": null,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": 6108.44,
+    "source": "AbeBooks",
+    "url": "https://www.abebooks.com/9780141018423/Why-Story-Making-Unmaking-Franken-0141018429/plp",
+    "retrieved_at": "2026-10-24T14:53:31.939166Z",
+    "converted": true,
+    "original_amount": 64.34,
+    "original_currency": "USD",
+    "quote": "US$ 64.34",
+    "notes": [
+     "converted from USD at the ECB rate of 2026-10-23"
+    ]
+   },
+   "used_value": {
+    "amount": 157.6,
+    "source": "AbeBooks",
+    "url": "https://www.abebooks.com/9780141018423/Why-Story-Making-Unmaking-Franken-0141018429/plp",
+    "retrieved_at": "2026-10-24T14:53:34.622278Z",
+    "condition_assumed": "Very Good",
+    "converted": true,
+    "original_amount": 1.66,
+    "original_currency": "USD",
+    "quote": "US$ 1.66",
+    "notes": [
+     "converted from USD at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "Penguin Books",
+   "spine_text": "WHY NOT ME? AL FRANKEN",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg",
+    "frames/00020.jpg",
+    "frames/00021.jpg"
+   ],
+   "box_2d": [
+    21,
+    294,
+    1000,
+    320
+   ],
+   "size_method": "no whole sighting in a frame with a known-size object",
+   "evidence": "The spine clearly prints 'WHY NOT ME? AL FRANKEN' with the Penguin logo at the bottom, matching the 2004 Penguin Books paperback edition (ISBN 9780141018423).",
+   "user_notes": []
+  },
+  {
+   "id": "B26",
+   "shelf": "U1-S1",
+   "position": 7,
+   "frame_ref": "frames/00017.jpg",
+   "status": "identified",
+   "title": "Vem är Björn och vem är Benny och andra intressanta mysterier",
+   "author": "Fredrik Lindström, Hasse Pihl",
+   "edition": "Danskt band (2004)",
+   "isbn": "9789100104412",
+   "spine_height_cm": null,
+   "spine_thickness_cm": null,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": 238.68,
+    "source": "Bokbörsen (Blomberg, Gustav)",
+    "url": "https://www.bokborsen.se/view/Fredrik-Lindstr%C3%B6m-Hasse-Pih/Vem-%C3%84r-Bj%C3%B6rn-Och-Vem-%C3%84r-Benny-Och-Andra-Intress/9110031?_p=3&f=1&qs=Blomberg%2C+Gustav",
+    "retrieved_at": "2026-10-24T14:54:45.852700Z",
+    "condition_assumed": "Nära nyskick",
+    "converted": true,
+    "original_amount": 25.0,
+    "original_currency": "SEK",
+    "quote": "25 SEK",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "Albert Bonniers Förlag",
+   "spine_text": "VEM ÄR BJÖRN OCH VEM ÄR BENNY",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg",
+    "frames/00020.jpg",
+    "frames/00021.jpg"
+   ],
+   "box_2d": [
+    8,
+    315,
+    1000,
+    333
+   ],
+   "size_method": "no whole sighting in a frame with a known-size object",
+   "evidence": "The spine reads 'VEM ÄR BJÖRN OCH VEM ÄR BENNY', 'AV FREDRIK LINDSTRÖM OCH HASSE PIHL', and shows the 'AB' imprint logo at the foot, matching the 2004 Albert Bonniers Förlag (Danskt band) edition.",
+   "user_notes": []
+  },
+  {
+   "id": "B27",
+   "shelf": "U1-S1",
+   "position": 8,
+   "frame_ref": "frames/00017.jpg",
+   "status": "identified",
+   "title": "Everything Bad is Good for You",
+   "author": "Steven Johnson",
+   "edition": "Paperback",
+   "isbn": "9780141018683",
+   "spine_height_cm": null,
+   "spine_thickness_cm": null,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": 597.0,
+    "source": "Flipkart",
+    "url": "https://www.flipkart.com/everything-bad-good-you/p/itmfbgf6pzvnddhd",
+    "retrieved_at": "2026-10-24T14:54:14.663872Z",
+    "converted": false,
+    "original_amount": 597.0,
+    "original_currency": "INR",
+    "quote": "₹597",
+    "notes": []
+   },
+   "used_value": {
+    "amount": 578.18,
+    "source": "AbeBooks",
+    "url": "https://www.abebooks.com/9781594481949/Everything-Bad-Good-Todays-Popular-1594481946/plp",
+    "retrieved_at": "2026-10-24T14:54:18.431893Z",
+    "condition_assumed": "Good",
+    "converted": true,
+    "original_amount": 6.09,
+    "original_currency": "USD",
+    "quote": "US$ 6.09",
+    "notes": [
+     "converted from USD at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "Penguin",
+   "spine_text": "Everything Bad is Good for You Steven Johnson",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg",
+    "frames/00020.jpg"
+   ],
+   "box_2d": [
+    0,
+    329,
+    1000,
+    348
+   ],
+   "size_method": "no whole sighting in a frame with a known-size object",
+   "evidence": "The bright pink paperback spine clearly shows the title 'Everything Bad is Good for You', author 'Steven Johnson', and the Penguin logo, matching the 2006 Penguin paperback edition (ISBN 9780141018683).",
+   "user_notes": []
+  },
+  {
+   "id": "B28",
+   "shelf": "U1-S1",
+   "position": 9,
+   "frame_ref": "frames/00017.jpg",
+   "status": "identified",
+   "title": "Sex and the City",
+   "author": "Candace Bushnell",
+   "edition": "Paperback",
+   "isbn": "",
+   "spine_height_cm": 20.44,
+   "spine_thickness_cm": 2.43,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": 474.0,
+    "source": "CommonFolks",
+    "url": "https://www.commonfolks.in/books/d/sex-and-the-city",
+    "retrieved_at": "2026-10-24T14:49:52.727674Z",
+    "converted": false,
+    "original_amount": 474.0,
+    "original_currency": "INR",
+    "quote": "₹474",
+    "notes": [
+     "the page shows it sold out or unavailable"
+    ]
+   },
+   "used_value": {
+    "amount": 135.0,
+    "source": "Bookchor",
+    "url": "https://www.bookchor.com/book/9780349118321/sex-and-the-city",
+    "retrieved_at": "2026-10-24T14:49:48.443096Z",
+    "condition_assumed": "Good",
+    "converted": false,
+    "original_amount": 135.0,
+    "original_currency": "INR",
+    "quote": "₹ 135",
+    "notes": []
+   },
+   "publisher": "Abacus",
+   "spine_text": "CANDACE BUSHNELL SEX AND THE CITY",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg",
+    "frames/00020.jpg"
+   ],
+   "box_2d": [
+    72,
+    346,
+    996,
+    366
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The spine displays the author 'CANDACE BUSHNELL', the title 'SEX AND THE CITY', and the crescent moon logo of the Abacus paperback imprint, which matches catalogue listings for Abacus paperback editions of the book.",
+   "user_notes": []
+  },
+  {
+   "id": "B35",
+   "shelf": "U1-S1",
+   "position": 10,
+   "frame_ref": "frames/00017.jpg",
+   "status": "identified",
+   "title": "Överklassen i Sverige",
+   "author": "Annette Kullenberg",
+   "edition": "",
+   "isbn": "",
+   "spine_height_cm": 20.57,
+   "spine_thickness_cm": 3.5,
+   "id_confidence": 0.98,
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": 1269.78,
+    "source": "Bokbörsen",
+    "url": "https://www.bokborsen.se/view/Kullenberg-Annette/%C3%96verklassen-I-Sverige/15523507?%2Fview%2FKullenberg-Annette%2F%C3%96verklassen-I-Sverige%2F15523507&%2Fview%2FKullenberg-Annette%2F%C3%96verklassen-I-Sverige%2F15523507&%2Fview%2FKullenberg-Annette%2F%C3%96verklassen-I-Sverige%2F15523507&_p=18&f=1&qs=VIKLUND%2C%20STIG%20LENNART",
+    "retrieved_at": "2026-10-24T14:49:31.298684Z",
+    "condition_assumed": "Nyskick. Förlagsny och Oläst.",
+    "converted": true,
+    "original_amount": 133.0,
+    "original_currency": "SEK",
+    "quote": "133 SEK",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "",
+   "spine_text": "ANNETTE KULLBERG ÖVERKLASSEN I SVERIGE",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg",
+    "frames/00020.jpg"
+   ],
+   "box_2d": [
+    46,
+    364,
+    983,
+    393
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The pink spine clearly displays 'ANNETTE KULLENBERG ÖVERKLASSEN I SVERIGE', confirmed by the Bokus catalogue page for the work.",
+   "user_notes": []
+  },
+  {
+   "id": "B29",
+   "shelf": "U1-S1",
+   "position": 11,
+   "frame_ref": "frames/00017.jpg",
+   "status": "unidentified",
+   "title": "",
+   "author": "",
+   "edition": "",
+   "isbn": "",
+   "spine_height_cm": 21.05,
+   "spine_thickness_cm": 3.13,
+   "id_confidence": null,
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "condition_assumed": "",
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "publisher": "",
+   "spine_text": "",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg",
+    "frames/00020.jpg"
+   ],
+   "box_2d": [
+    0,
+    389,
+    962,
+    415
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "no sighting of the spine is readable",
+   "user_notes": []
+  },
+  {
+   "id": "B30",
+   "shelf": "U1-S1",
+   "position": 12,
+   "frame_ref": "frames/00017.jpg",
+   "status": "identified",
+   "title": "Bokhandlaren i Kabul",
+   "author": "Åsne Seierstad",
+   "edition": "Pocket",
+   "isbn": "9170010420",
+   "spine_height_cm": 20.35,
+   "spine_thickness_cm": 3.16,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": 945.17,
+    "source": "Bokus",
+    "url": "https://www.bokus.com/bok/9789100183554/bokhandlaren-i-kabul",
+    "retrieved_at": "2026-10-24T14:54:03.039910Z",
+    "converted": true,
+    "original_amount": 99.0,
+    "original_currency": "SEK",
+    "quote": "99 kr",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "used_value": {
+    "amount": 518.37,
+    "source": "medimops (via AbeBooks)",
+    "url": "https://www.abebooks.com/9789170010422/Bokhandlaren-Kabul-Asne-Seierstad-9170010420/plp",
+    "retrieved_at": "2026-10-24T14:55:14.952571Z",
+    "condition_assumed": "very good",
+    "converted": true,
+    "original_amount": 5.46,
+    "original_currency": "USD",
+    "quote": "US$ 5.46",
+    "notes": [
+     "converted from USD at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "Månpocket",
+   "spine_text": "Åsne Seierstad Bokhandlaren i Kabul",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg",
+    "frames/00020.jpg"
+   ],
+   "box_2d": [
+    21,
+    413,
+    941,
+    439
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "Spine clearly reads 'Åsne Seierstad Bokhandlaren i Kabul' with the Månpocket crescent moon logo at the base, matching the 2003 Månpocket edition (ISBN 9170010420) confirmed on Bokbörsen and Libris.",
+   "user_notes": []
+  },
+  {
+   "id": "B31",
+   "shelf": "U1-S1",
+   "position": 13,
+   "frame_ref": "frames/00017.jpg",
+   "status": "identified",
+   "title": "Stupid White Men",
+   "author": "Michael Moore",
+   "edition": "Paperback",
+   "isbn": "",
+   "spine_height_cm": 20.130000000000003,
+   "spine_thickness_cm": 2.5300000000000002,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": 469.0,
+    "source": "Flipkart",
+    "url": "https://www.flipkart.com/stupid-white-men-other-sorry-excuses-state-nation/p/itmfbshtwarfuktj",
+    "retrieved_at": "2026-10-24T14:50:48.971024Z",
+    "converted": false,
+    "original_amount": 469.0,
+    "original_currency": "INR",
+    "quote": "₹469",
+    "notes": [
+     "the page shows it sold out or unavailable"
+    ]
+   },
+   "used_value": {
+    "amount": 195.0,
+    "source": "The Bookworm",
+    "url": "https://www.thebookworm.co.in/brand/michael-moore-1",
+    "retrieved_at": "2026-10-24T14:50:50.776607Z",
+    "condition_assumed": "used,paper back,good condition",
+    "converted": false,
+    "original_amount": 195.0,
+    "original_currency": "INR",
+    "quote": "₹ 195.00",
+    "notes": []
+   },
+   "publisher": "Penguin Books",
+   "spine_text": "STUPID WHITE MEN MICHAEL MOORE",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg",
+    "frames/00020.jpg"
+   ],
+   "box_2d": [
+    4,
+    435,
+    924,
+    456
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The red spine clearly reads 'STUPID WHITE MEN MICHAEL MOORE' with the Penguin logo at the bottom, matching the Penguin Books paperback edition.",
+   "user_notes": []
+  },
+  {
+   "id": "B36",
+   "shelf": "U1-S1",
+   "position": 14,
+   "frame_ref": "frames/00017.jpg",
+   "status": "identified",
+   "title": "Just for Fun: Wie ein Freak die Computerwelt revolutionierte",
+   "author": "Linus Torvalds, David Diamond",
+   "edition": "Paperback",
+   "isbn": "9783423362993",
+   "spine_height_cm": 19.759999999999998,
+   "spine_thickness_cm": 2.41,
+   "id_confidence": 0.98,
+   "replacement_cost": {
+    "amount": 1365.0,
+    "source": "Bookchor",
+    "url": "https://www.bookchor.com/book/9780066620732/just-for-fun-the-story-of-an-accidental-revolutionary",
+    "retrieved_at": "2026-10-24T14:49:19.298255Z",
+    "converted": false,
+    "original_amount": 1365.0,
+    "original_currency": "INR",
+    "quote": "₹ 1365",
+    "notes": []
+   },
+   "used_value": {
+    "amount": 1380.47,
+    "source": "Bookbot",
+    "url": "https://bookbot.com/g/1553454",
+    "retrieved_at": "2026-10-24T14:49:17.905714Z",
+    "condition_assumed": "Good",
+    "converted": true,
+    "original_amount": 12.99,
+    "original_currency": "EUR",
+    "quote": "€12.99",
+    "notes": [
+     "converted from EUR at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "dtv",
+   "spine_text": "LINUS TORVALDS just for fun",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg",
+    "frames/00020.jpg"
+   ],
+   "box_2d": [
+    8,
+    455,
+    911,
+    475
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The spine displays the dtv logo at the top, followed by 'LINUS TORVALDS' and 'just for fun' on a distinctive white and orange dtv paperback spine, matching ISBN 9783423362993.",
+   "user_notes": []
+  },
+  {
+   "id": "B2",
+   "shelf": "U1-S1",
+   "position": 15,
+   "frame_ref": "frames/00017.jpg",
+   "status": "identified",
+   "title": "Ett svenskt geni : Berättelsen om Håkan Lans och kriget han startade",
+   "author": "David Lagercrantz",
+   "edition": "Pocket (2006)",
+   "isbn": "9789164202086",
+   "spine_height_cm": 19.86,
+   "spine_thickness_cm": 2.31,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": 763.78,
+    "source": "Bokbörsen (Leander09)",
+    "url": "https://www.bokborsen.se/view/Lagercrantz-David/Ett-Svenskt-Geni-Ber%C3%A4ttelsen-Om-H%C3%A5kan-Lans-Och/15965168",
+    "retrieved_at": "2026-10-24T14:49:20.473937Z",
+    "condition_assumed": "Mycket gott skick.",
+    "converted": true,
+    "original_amount": 80.0,
+    "original_currency": "SEK",
+    "quote": "80 SEK",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "Piratförlaget",
+   "spine_text": "DAVID LAGERCRANTZ ETT SVENSKT GENI pirat",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg",
+    "frames/00020.jpg"
+   ],
+   "box_2d": [
+    0,
+    474,
+    898,
+    493
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The spine displays 'DAVID LAGERCRANTZ', 'ETT SVENSKT GENI', and the publisher imprint 'pirat' at the base, matching the 2006 Piratförlaget pocket edition (ISBN 9789164202086).",
+   "user_notes": []
+  },
+  {
+   "id": "B3",
+   "shelf": "U1-S1",
+   "position": 16,
+   "frame_ref": "frames/00017.jpg",
+   "status": "unidentified",
+   "title": "",
+   "author": "",
+   "edition": "",
+   "isbn": "",
+   "spine_height_cm": 19.380000000000003,
+   "spine_thickness_cm": 1.69,
+   "id_confidence": null,
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "condition_assumed": "",
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "publisher": "",
+   "spine_text": "",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg",
+    "frames/00020.jpg"
+   ],
+   "box_2d": [
+    0,
+    491,
+    886,
+    505
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "no sighting of the spine is readable",
+   "user_notes": []
+  },
+  {
+   "id": "B4",
+   "shelf": "U1-S1",
+   "position": 17,
+   "frame_ref": "frames/00017.jpg",
+   "status": "identified",
+   "title": "Mediernas svarta bok",
+   "author": "Maria-Pia Boëthius",
+   "edition": "",
+   "isbn": "",
+   "spine_height_cm": 19.19,
+   "spine_thickness_cm": 2.41,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "condition_assumed": "",
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "publisher": "",
+   "spine_text": "MARIA-PIA BOËTHIUS MEDIERNAS SVARTA BOK",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg",
+    "frames/00020.jpg"
+   ],
+   "box_2d": [
+    0,
+    504,
+    877,
+    524
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The spine clearly prints 'MARIA-PIA BOËTHIUS' and 'MEDIERNAS SVARTA BOK', matching the Swedish work Mediernas svarta bok: en kriminografi by Maria-Pia Boëthius.",
+   "user_notes": []
+  },
+  {
+   "id": "B5",
+   "shelf": "U1-S1",
+   "position": 18,
+   "frame_ref": "frames/00018.jpg",
+   "status": "unidentified",
+   "title": "",
+   "author": "",
+   "edition": "",
+   "isbn": "",
+   "spine_height_cm": 18.82,
+   "spine_thickness_cm": 2.8899999999999997,
+   "id_confidence": null,
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "condition_assumed": "",
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "publisher": "",
+   "spine_text": "Barbara Ehrenreich Barskrapad",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg",
+    "frames/00020.jpg"
+   ],
+   "box_2d": [
+    0,
+    522,
+    608,
+    545
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The yellow vertical text on the spine is too blurry and low-resolution to read; the visible word lengths and lowercase 'a' publisher mark at the base do not match Barbara Ehrenreich's Barskrapad (published by Leopard Förlag).",
+   "user_notes": []
+  },
+  {
+   "id": "B6",
+   "shelf": "U1-S1",
+   "position": 19,
+   "frame_ref": "frames/00017.jpg",
+   "status": "identified",
+   "title": "Skurkstater: den starkares rätt i världspolitiken",
+   "author": "Noam Chomsky",
+   "edition": "",
+   "isbn": "",
+   "spine_height_cm": 18.36,
+   "spine_thickness_cm": 2.65,
+   "id_confidence": 0.98,
+   "replacement_cost": {
+    "amount": 849.7,
+    "source": "Bokus",
+    "url": "https://www.bokus.com/bok/9789173249157/skurkstater-den-starkares-ratt-i-varldspolitiken",
+    "retrieved_at": "2026-10-24T14:49:49.504672Z",
+    "converted": true,
+    "original_amount": 89.0,
+    "original_currency": "SEK",
+    "quote": "89 kr",
+    "notes": [
+     "the page shows it sold out or unavailable",
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "used_value": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "condition_assumed": "",
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "publisher": "Ordfront",
+   "spine_text": "NOAM CHOMSKY SKURKSTATER",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg",
+    "frames/00020.jpg"
+   ],
+   "box_2d": [
+    0,
+    544,
+    839,
+    566
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The spine clearly reads 'NOAM CHOMSKY SKURKSTATER' with the Ordfront 'O' colophon at the base, matching the Swedish translation published by Ordfront förlag.",
+   "user_notes": []
+  },
+  {
+   "id": "B7",
+   "shelf": "U1-S1",
+   "position": 20,
+   "frame_ref": "frames/00017.jpg",
+   "status": "identified",
+   "title": "Kodboken : Konsten att skapa sekretess - från det gamla Egypten till kvantkryptering",
+   "author": "Simon Singh",
+   "edition": "Pocket (2000)",
+   "isbn": "9789176436974",
+   "spine_height_cm": 18.07,
+   "spine_thickness_cm": 3.4899999999999998,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": 849.7,
+    "source": "Bokus",
+    "url": "https://www.bokus.com/bok/9789176436974/kodboken",
+    "retrieved_at": "2026-10-24T14:49:31.746505Z",
+    "converted": true,
+    "original_amount": 89.0,
+    "original_currency": "SEK",
+    "quote": "89 kr",
+    "notes": [
+     "the page shows it sold out or unavailable",
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "used_value": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "condition_assumed": "",
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "publisher": "Månpocket",
+   "spine_text": "KOD BOKEN SIMON SINGH",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg",
+    "frames/00020.jpg"
+   ],
+   "box_2d": [
+    0,
+    564,
+    826,
+    593
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The spine clearly shows 'KOD BOKEN', 'SIMON SINGH', and the crescent moon logo of Månpocket at the bottom; confirmed by Bokus and Bokbörsen catalogue pages for ISBN 9789176436974.",
+   "user_notes": []
+  },
+  {
+   "id": "B8",
+   "shelf": "U1-S1",
+   "position": 21,
+   "frame_ref": "frames/00017.jpg",
+   "status": "identified",
+   "title": "Krona eller euro? : experternas argument för och emot EMU",
+   "author": "Torsten Sverenius",
+   "edition": "Pocket",
+   "isbn": "",
+   "spine_height_cm": 17.47,
+   "spine_thickness_cm": 2.87,
+   "id_confidence": 0.96,
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": 716.04,
+    "source": "Bokbörsen (Peter Brusén)",
+    "url": "https://www.bokborsen.se/view/Torsten-Sverenius/Krona-Eller-Euro/6209726?%2Fview%2FTorsten-Sverenius%2FKrona-Eller-Euro%2F6209726&%2Fview%2FTorsten-Sverenius%2FKrona-Eller-Euro%2F6209726&%2Fview%2FTorsten-Sverenius%2FKrona-Eller-Euro%2F6209726&_p=1&f=1&qs=Peter%20Brus%C3%A9n&ug=7358638",
+    "retrieved_at": "2026-10-24T14:49:26.265393Z",
+    "condition_assumed": "Mycket gott skick. Biblioteksbok.",
+    "converted": true,
+    "original_amount": 75.0,
+    "original_currency": "SEK",
+    "quote": "75 SEK",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "Fischer & Co",
+   "spine_text": "KRONA ELLER EURO?",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg",
+    "frames/00020.jpg"
+   ],
+   "box_2d": [
+    0,
+    591,
+    805,
+    615
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The spine displays the title 'KRONA ELLER EURO?', coin graphics, and the Fischer & Co ('F') publisher logo, matching the Swedish pocket edition by Torsten Sverenius.",
+   "user_notes": []
+  },
+  {
+   "id": "B9",
+   "shelf": "U1-S1",
+   "position": 22,
+   "frame_ref": "frames/00016.jpg",
+   "status": "identified",
+   "title": "Populärmusik från Vittula",
+   "author": "Mikael Niemi",
+   "edition": "Paperback (Pocket)",
+   "isbn": "",
+   "spine_height_cm": null,
+   "spine_thickness_cm": null,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": 945.17,
+    "source": "Bokus",
+    "url": "https://www.bokus.com/bok/9789113048031/popularmusik-fran-vittula",
+    "retrieved_at": "2026-10-24T14:56:04.755236Z",
+    "converted": true,
+    "original_amount": 99.0,
+    "original_currency": "SEK",
+    "quote": "99 kr",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "used_value": {
+    "amount": 190.94,
+    "source": "Bokbörsen (solins)",
+    "url": "https://www.bokborsen.se/view/Mikael-Niemi/Popul%C3%A4rmusik-Fr%C3%A5n-Vittula/10293903?%2Fview%2FMikael-Niemi%2FPopul%C3%A4rmusik-Fr%C3%A5n-Vittula%2F10293903&%2Fview%2FMikael-Niemi%2FPopul%C3%A4rmusik-Fr%C3%A5n-Vittula%2F10293903&%2Fview%2FMikael-Niemi%2FPopul%C3%A4rmusik-Fr%C3%A5n-Vittula%2F10293903&_p=31&f=1&qs=solins",
+    "retrieved_at": "2026-10-24T14:57:42.926517Z",
+    "condition_assumed": "Mycket gott skick",
+    "converted": true,
+    "original_amount": 20.0,
+    "original_currency": "SEK",
+    "quote": "20 SEK",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "Pan",
+   "spine_text": "mikael niemi populärmusik från vittula pan",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg",
+    "frames/00020.jpg"
+   ],
+   "box_2d": [
+    146,
+    614,
+    998,
+    630
+   ],
+   "size_method": "no whole sighting in a frame with a known-size object",
+   "evidence": "The yellow spine clearly prints 'mikael niemi', 'populärmusik från vittula', and the 'pan' paperback imprint logo, confirmed by Bokbörsen and Libris catalogue records.",
+   "user_notes": []
+  },
+  {
+   "id": "B10",
+   "shelf": "U1-S1",
+   "position": 23,
+   "frame_ref": "frames/00016.jpg",
+   "status": "identified",
+   "title": "I mördarens spår 1: Ett fall för en kvinna",
+   "author": "Lynda La Plante",
+   "edition": "Pocket, 1997",
+   "isbn": "9789132430800",
+   "spine_height_cm": null,
+   "spine_thickness_cm": null,
+   "id_confidence": 0.98,
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "condition_assumed": "",
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "publisher": "B. Wahlströms",
+   "spine_text": "Lynda La Plante I MÖRDARENS SPÅR",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00012.jpg",
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg"
+   ],
+   "box_2d": [
+    122,
+    630,
+    998,
+    646
+   ],
+   "size_method": "no whole sighting in a frame with a known-size object",
+   "evidence": "Spine clearly displays 'Lynda La Plante | I MÖRDARENS SPÅR (1) Ett fall för en kvinna' and the BW (B. Wahlströms) pocket logo at the base, matching the 1997 B. Wahlströms paperback edition.",
+   "user_notes": []
+  },
+  {
+   "id": "B11",
+   "shelf": "U1-S1",
+   "position": 24,
+   "frame_ref": "frames/00016.jpg",
+   "status": "identified",
+   "title": "I mördarens spår 2: Stumt vittne",
+   "author": "Lynda La Plante",
+   "edition": "Pocket (1998)",
+   "isbn": "9789132431357",
+   "spine_height_cm": 18.29,
+   "spine_thickness_cm": 1.9300000000000002,
+   "id_confidence": 0.95,
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "condition_assumed": "",
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "publisher": "B. Wahlström",
+   "spine_text": "Lynda La Plante I MÖRDARENS SPÅR",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00012.jpg",
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg"
+   ],
+   "box_2d": [
+    112,
+    644,
+    998,
+    661
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The black paperback spine shows the blue square 'W' logo of B. Wahlström at the top and reads 'Lynda La Plante I MÖRDARENS SPÅR [2] Stumt vittne', matching B. Wahlström's 1998 pocket edition of I mördarens spår 2: Stumt vittne (ISBN 9789132431357 / 913243135X).",
+   "user_notes": []
+  },
+  {
+   "id": "B13",
+   "shelf": "U1-S1",
+   "position": 25,
+   "frame_ref": "frames/00016.jpg",
+   "status": "identified",
+   "title": "Världens dåligaste språk",
+   "author": "Fredrik Lindström",
+   "edition": "Pocket",
+   "isbn": "9789176437827",
+   "spine_height_cm": 17.22,
+   "spine_thickness_cm": 2.04,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": 849.7,
+    "source": "Bokus",
+    "url": "https://www.bokus.com/bok/9789100110000/varldens-daligaste-sprak-tankar-om-spraket-och-manniskan-idag",
+    "retrieved_at": "2026-10-24T14:49:20.199096Z",
+    "converted": true,
+    "original_amount": 89.0,
+    "original_currency": "SEK",
+    "quote": "89 kr",
+    "notes": [
+     "the page shows it sold out or unavailable",
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "used_value": {
+    "amount": 229.13,
+    "source": "Bokbörsen (Jans Boklåda)",
+    "url": "https://www.bokborsen.se/view/Lindstr%C3%B6m-Fredrik/V%C3%A4rldens-D%C3%A5ligaste-Spr%C3%A5k-Tankar-Om-Spr%C3%A5ket-Oc/5329419?%2Fview%2FLindstr%C3%B6m-Fredrik%2FV%C3%A4rldens-D%C3%A5ligaste-Spr%C3%A5k-Tankar-Om-Spr%C3%A5ket-Oc%2F5329419&%2Fview%2FLindstr%C3%B6m-Fredrik%2FV%C3%A4rldens-D%C3%A5ligaste-Spr%C3%A5k-Tankar-Om-Spr%C3%A5ket-Oc%2F5329419&%2Fview%2FLindstr%C3%B6m-Fredrik%2FV%C3%A4rldens-D%C3%A5ligaste-Spr%C3%A5k-Tankar-Om-Spr%C3%A5ket-Oc%2F5329419",
+    "retrieved_at": "2026-10-24T14:49:28.127766Z",
+    "condition_assumed": "Mycket gott skick. Svagt gulnad.",
+    "converted": true,
+    "original_amount": 24.0,
+    "original_currency": "SEK",
+    "quote": "24 SEK",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "MånPocket",
+   "spine_text": "Fredrik Lindström Världens dåligaste språk",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg"
+   ],
+   "box_2d": [
+    110,
+    658,
+    994,
+    675
+   ],
+   "size_method": "median of 2 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The spine clearly prints 'fredrik lindström världens dåligaste språk' along with the MånPocket crescent logo at the base, matching the 2001 MånPocket paperback edition.",
+   "user_notes": []
+  },
+  {
+   "id": "B14",
+   "shelf": "U1-S1",
+   "position": 26,
+   "frame_ref": "frames/00016.jpg",
+   "status": "identified",
+   "title": "Jordens smartaste ord : Språkliga gåtor och mänskligt tänk",
+   "author": "Fredrik Lindström",
+   "edition": "Pocket",
+   "isbn": "9789100103484",
+   "spine_height_cm": 18.25,
+   "spine_thickness_cm": 2.04,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "condition_assumed": "",
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "publisher": "Bonnier Pocket",
+   "spine_text": "Fredrik Lindström Jordens smartaste ord",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00012.jpg",
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg"
+   ],
+   "box_2d": [
+    100,
+    673,
+    984,
+    691
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The spine clearly prints 'fredrik lindström jordens smartaste ord' with the Bonnier Pocket rosette logo at the foot; confirmed by Bokbörsen and Albert Bonniers Förlag catalogue records.",
+   "user_notes": []
+  },
+  {
+   "id": "B15",
+   "shelf": "U1-S1",
+   "position": 27,
+   "frame_ref": "frames/00016.jpg",
+   "status": "identified",
+   "title": "Italien",
+   "author": "Tomas Lappalainen",
+   "edition": "Pocket",
+   "isbn": "9789170549823",
+   "spine_height_cm": 18.119999999999997,
+   "spine_thickness_cm": 2.16,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": 849.7,
+    "source": "Bokus",
+    "url": "https://www.bokus.com/bok/9789170549823/italien",
+    "retrieved_at": "2026-10-24T14:49:28.918057Z",
+    "converted": true,
+    "original_amount": 89.0,
+    "original_currency": "SEK",
+    "quote": "89 kr",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "used_value": {
+    "amount": 238.68,
+    "source": "Bokbörsen (Alys & Mallt)",
+    "url": "https://www.bokborsen.se/view/Lappalainen-Tomas/Italien/15451075?%2Fview%2FLappalainen-Tomas%2FItalien%2F15451075&%2Fview%2FLappalainen-Tomas%2FItalien%2F15451075&%2Fview%2FLappalainen-Tomas%2FItalien%2F15451075&_p=1&f=1&qs=Alys%20%26%20Mallt",
+    "retrieved_at": "2026-10-24T14:49:37.424323Z",
+    "condition_assumed": "Mycket gott skick",
+    "converted": true,
+    "original_amount": 25.0,
+    "original_currency": "SEK",
+    "quote": "25 SEK",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "Fischer & Co",
+   "spine_text": "ITALIEN Tomas Lappalainen",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg"
+   ],
+   "box_2d": [
+    94,
+    688,
+    972,
+    707
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The spine clearly displays 'ITALIEN', 'tomas lappalainen', and the 'F' logo of Fischer & Co at the foot, matching the Swedish pocket edition (ISBN 9789170549823) confirmed by Bokbörsen and Bokus.",
+   "user_notes": []
+  },
+  {
+   "id": "B16",
+   "shelf": "U1-S1",
+   "position": 28,
+   "frame_ref": "frames/00016.jpg",
+   "status": "unidentified",
+   "title": "",
+   "author": "",
+   "edition": "",
+   "isbn": "",
+   "spine_height_cm": null,
+   "spine_thickness_cm": null,
+   "id_confidence": null,
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "condition_assumed": "",
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "publisher": "",
+   "spine_text": "MAFFIA Tomas Lappalainen",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00012.jpg",
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg"
+   ],
+   "box_2d": [
+    72,
+    704,
+    960,
+    723
+   ],
+   "size_method": "not identified yet",
+   "evidence": "",
+   "user_notes": []
+  },
+  {
+   "id": "B17",
+   "shelf": "U1-S1",
+   "position": 29,
+   "frame_ref": "frames/00016.jpg",
+   "status": "identified",
+   "title": "Homicide: A Year on the Killing Streets",
+   "author": "David Simon",
+   "edition": "Paperback",
+   "isbn": "",
+   "spine_height_cm": 16.34,
+   "spine_thickness_cm": 2.79,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": 2467.49,
+    "source": "Barnes & Noble",
+    "url": "https://www.barnesandnoble.com/w/homicide-david-simon/1102955332",
+    "retrieved_at": "2026-10-24T14:49:47.691409Z",
+    "converted": true,
+    "original_amount": 25.99,
+    "original_currency": "USD",
+    "quote": "$25.99",
+    "notes": [
+     "the page shows it sold out or unavailable",
+     "converted from USD at the ECB rate of 2026-10-23"
+    ]
+   },
+   "used_value": {
+    "amount": 392.1,
+    "source": "AbeBooks (BooksRun)",
+    "url": "https://www.abebooks.com/9780805080759/Homicide-Year-Killing-Streets-Simon-0805080759/plp",
+    "retrieved_at": "2026-10-24T14:49:45.479775Z",
+    "condition_assumed": "Very Good",
+    "converted": true,
+    "original_amount": 4.13,
+    "original_currency": "USD",
+    "quote": "US$ 4.13",
+    "notes": [
+     "converted from USD at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "",
+   "spine_text": "DAVID SIMON HOMICIDE A YEAR ON THE KILLING STREETS",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00012.jpg",
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg"
+   ],
+   "box_2d": [
+    86,
+    721,
+    944,
+    745
+   ],
+   "size_method": "median of 2 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The spine clearly reads 'DAVID SIMON HOMICIDE A YEAR ON THE KILLING STREETS' in white and red text on a black paperback spine, confirmed by retail and catalogue records.",
+   "user_notes": []
+  },
+  {
+   "id": "B18",
+   "shelf": "U1-S1",
+   "position": 30,
+   "frame_ref": "frames/00016.jpg",
+   "status": "unidentified",
+   "title": "",
+   "author": "",
+   "edition": "",
+   "isbn": "",
+   "spine_height_cm": 18.06,
+   "spine_thickness_cm": 2.6,
+   "id_confidence": null,
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "condition_assumed": "",
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "publisher": "",
+   "spine_text": "",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00012.jpg",
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg"
+   ],
+   "box_2d": [
+    48,
+    744,
+    926,
+    767
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "no sighting of the spine is readable",
+   "user_notes": []
+  },
+  {
+   "id": "B19",
+   "shelf": "U1-S1",
+   "position": 31,
+   "frame_ref": "frames/00016.jpg",
+   "status": "identified",
+   "title": "Välkommen till dramafabriken",
+   "author": "Dan Josefsson",
+   "edition": "",
+   "isbn": "",
+   "spine_height_cm": 18.0,
+   "spine_thickness_cm": 2.82,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": 420.08,
+    "source": "Bokbörsen (Antikvariat Bladverket)",
+    "url": "https://www.bokborsen.se/view/Dan-Josefsson/V%C3%A4lkommen-Till-Dramafabriken/12692548?%2Fview%2FDan-Josefsson%2FV%C3%A4lkommen-Till-Dramafabriken%2F12692548&%2Fview%2FDan-Josefsson%2FV%C3%A4lkommen-Till-Dramafabriken%2F12692548&%2Fview%2FDan-Josefsson%2FV%C3%A4lkommen-Till-Dramafabriken%2F12692548&%2Fview%2FDan-Josefsson%2FV%C3%A4lkommen-Till-Dramafabriken%2F12692548&_p=6&f=1&qs=Antikvariat%20Bladverket&qt=Till",
+    "retrieved_at": "2026-10-24T14:50:37.448486Z",
+    "condition_assumed": "Mycket gott skick",
+    "converted": true,
+    "original_amount": 44.0,
+    "original_currency": "SEK",
+    "quote": "44 SEK",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "Ordfront",
+   "spine_text": "Välkommen till Dramafabriken Dan Josefsson",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00012.jpg",
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg"
+   ],
+   "box_2d": [
+    32,
+    763,
+    910,
+    788
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The spine clearly prints the title 'Välkommen till Dramafabriken', the author 'Dan Josefsson', and the Ordfront colophon 'O' at the bottom, which matches the Swedish edition by Ordfront.",
+   "user_notes": []
+  },
+  {
+   "id": "B20",
+   "shelf": "U1-S1",
+   "position": 32,
+   "frame_ref": "frames/00016.jpg",
+   "status": "unidentified",
+   "title": "",
+   "author": "",
+   "edition": "",
+   "isbn": "",
+   "spine_height_cm": 18.06,
+   "spine_thickness_cm": 3.06,
+   "id_confidence": null,
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "condition_assumed": "",
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "publisher": "",
+   "spine_text": "vad varje",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg"
+   ],
+   "box_2d": [
+    16,
+    782,
+    894,
+    809
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The white text on the black spine is too blurry and low-resolution across all frames to reliably read the title or author.",
+   "user_notes": []
+  },
+  {
+   "id": "B21",
+   "shelf": "U1-S1",
+   "position": 33,
+   "frame_ref": "frames/00016.jpg",
+   "status": "identified",
+   "title": "Ge och ta kritik på rätt sätt",
+   "author": "Hendrie Weisinger",
+   "edition": "Pocket",
+   "isbn": "9789177152743",
+   "spine_height_cm": 17.880000000000003,
+   "spine_thickness_cm": 2.1399999999999997,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": 840.15,
+    "source": "Bokbörsen (Essbok)",
+    "url": "https://www.bokborsen.se/view/Hendric-Weisinger/Ge-Och-Ta-Kritik-P%C3%A5-R%C3%A4tt-S%C3%A4tt/9798459?%2Fview%2FHendric-Weisinger%2FGe-Och-Ta-Kritik-P%C3%A5-R%C3%A4tt-S%C3%A4tt%2F9798459&%2Fview%2FHendric-Weisinger%2FGe-Och-Ta-Kritik-P%C3%A5-R%C3%A4tt-S%C3%A4tt%2F9798459&%2Fview%2FHendric-Weisinger%2FGe-Och-Ta-Kritik-P%C3%A5-R%C3%A4tt-S%C3%A4tt%2F9798459&%2Fview%2FHendric-Weisinger%2FGe-Och-Ta-Kritik-P%C3%A5-R%C3%A4tt-S%C3%A4tt%2F9798459&_p=24&f=1&qs=Essbok&ug=8853",
+    "retrieved_at": "2026-10-24T14:49:31.609443Z",
+    "condition_assumed": "Nära nyskick. Rak och ren utan namn eller skador.",
+    "converted": true,
+    "original_amount": 88.0,
+    "original_currency": "SEK",
+    "quote": "88 SEK",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "Richter",
+   "spine_text": "Ge och ta kritik på rätt sätt",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00012.jpg",
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg"
+   ],
+   "box_2d": [
+    6,
+    803,
+    878,
+    822
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The spine displays the title 'Ge och ta kritik på rätt sätt', the author 'Hendrie Weisinger', and the publisher 'Richters' at the bottom of a pocket-format paperback; Bokbörsen confirms the 2003 Richter pocket edition (ISBN 9789177152743) with dimensions 180 mm height and 13 mm thickness.",
+   "user_notes": []
+  },
+  {
+   "id": "B22",
+   "shelf": "U1-S1",
+   "position": 34,
+   "frame_ref": "frames/00016.jpg",
+   "status": "identified",
+   "title": "Den vita lejoninnan",
+   "author": "Henning Mankell",
+   "edition": "",
+   "isbn": "",
+   "spine_height_cm": 17.79,
+   "spine_thickness_cm": 2.93,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": 3045.56,
+    "source": "Bokus",
+    "url": "https://www.bokus.com/bok/9789113146546/den-vita-lejoninnan",
+    "retrieved_at": "2026-10-24T14:49:09.200747Z",
+    "converted": true,
+    "original_amount": 319.0,
+    "original_currency": "SEK",
+    "quote": "319 kr",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "used_value": {
+    "amount": 467.81,
+    "source": "Bokbörsen (Pyramid Anderstorp Kommanditbolag (företag))",
+    "url": "https://www.bokborsen.se/view/Henning-Mankell/Den-Vita-Lejoninnan/15892372?%2Fview%2FHenning-Mankell%2FDen-Vita-Lejoninnan%2F15892372",
+    "retrieved_at": "2026-10-24T14:49:19.925967Z",
+    "condition_assumed": "Hyggligt skick",
+    "converted": true,
+    "original_amount": 49.0,
+    "original_currency": "SEK",
+    "quote": "49 SEK",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "",
+   "spine_text": "Henning Mankell DEN VITA LEJONINNAN",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00012.jpg",
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg"
+   ],
+   "box_2d": [
+    0,
+    816,
+    868,
+    842
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The spine clearly displays 'Henning Mankell DEN VITA LEJONINNAN', matching the Swedish crime novel by Henning Mankell confirmed by Bokus and Bokbörsen.",
+   "user_notes": []
+  },
+  {
+   "id": "B24",
+   "shelf": "U1-S1",
+   "position": 35,
+   "frame_ref": "frames/00016.jpg",
+   "status": "identified",
+   "title": "Mördare utan ansikte",
+   "author": "Henning Mankell",
+   "edition": "Pocket",
+   "isbn": "",
+   "spine_height_cm": 15.35,
+   "spine_thickness_cm": 2.45,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": 2281.78,
+    "source": "Bokus",
+    "url": "https://www.bokus.com/bok/9789113144931/mordare-utan-ansikte",
+    "retrieved_at": "2026-10-24T14:49:39.035117Z",
+    "converted": true,
+    "original_amount": 239.0,
+    "original_currency": "SEK",
+    "quote": "239 kr",
+    "notes": [
+     "the page's copy is another format or edition: The page lists the book Mördare utan ansikte by Henning Mankell for 239 kr and available for order, but the format is Häftad (trade paperback) rather than Pocket.",
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "used_value": {
+    "amount": 171.85,
+    "source": "Bokloop",
+    "url": "https://bokloop.se/annons/4b74a38b-c49d-4f03-bb91-a8d945ba0b1d/mordare-utan-ansikte",
+    "retrieved_at": "2026-10-24T14:49:36.009386Z",
+    "condition_assumed": "Bra skick",
+    "converted": true,
+    "original_amount": 18.0,
+    "original_currency": "SEK",
+    "quote": "18 kr",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "Ordfront Förlag",
+   "spine_text": "Henning Mankell Mördare utan ansikte",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00012.jpg",
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg"
+   ],
+   "box_2d": [
+    0,
+    834,
+    852,
+    856
+   ],
+   "size_method": "median of 2 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The blue paperback spine clearly displays 'Henning Mankell', 'Mördare utan ansikte', and the circular Ordfront logo at the base, matching catalogue listings for the Swedish novel.",
+   "user_notes": []
+  },
+  {
+   "id": "B25",
+   "shelf": "U1-S1",
+   "position": 36,
+   "frame_ref": "frames/00016.jpg",
+   "status": "identified",
+   "title": "Två nötcreme och en moviebox",
+   "author": "Filip Hammar & Fredrik Wikingsson",
+   "edition": "",
+   "isbn": "",
+   "spine_height_cm": 16.830000000000002,
+   "spine_thickness_cm": 2.83,
+   "id_confidence": 0.95,
+   "replacement_cost": {
+    "amount": 2959.63,
+    "source": "Bokus",
+    "url": "https://www.bokus.com/bok/9789101001062/tva-notcreme-och-en-moviebox-hisnande-generaliseringar-om-var-uppvaxt-i-ddr-sverige",
+    "retrieved_at": "2026-10-24T14:54:55.341016Z",
+    "converted": true,
+    "original_amount": 310.0,
+    "original_currency": "SEK",
+    "quote": "310 kr",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "used_value": {
+    "amount": 859.25,
+    "source": "Bokbörsen (Mats Ola Mattsson)",
+    "url": "https://www.bokborsen.se/view/Hammar-Filip/Tv%C3%A5-N%C3%B6tcreme-Och-En-Moviebox-Hisnande-Generalise/15780609?%2Fview%2FHammar-Filip%2FTv%C3%A5-N%C3%B6tcreme-Och-En-Moviebox-Hisnande-Generalise%2F15780609",
+    "retrieved_at": "2026-10-24T14:55:03.291223Z",
+    "condition_assumed": "Hyggligt skick",
+    "converted": true,
+    "original_amount": 90.0,
+    "original_currency": "SEK",
+    "quote": "90 SEK",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "",
+   "spine_text": "Filip Hammar & Fredrik Wikingsson",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg"
+   ],
+   "box_2d": [
+    20,
+    849,
+    838,
+    874
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The spine displays the authors 'Filip Hammar & Fredrik Wikingsson' in white vertical text alongside the pink vertical title '... OCH EN MOVIEBOX', matching their book 'Två nötcreme och en moviebox'.",
+   "user_notes": []
+  },
+  {
+   "id": "B37",
+   "shelf": "U1-S2",
+   "position": 1,
+   "frame_ref": "frames/00024.jpg",
+   "status": "identified",
+   "title": "Iskallt och stenhårt: Mina tjugo år i Texas fängelser",
+   "author": "Rickard Flinga",
+   "edition": "Pocket (2006)",
+   "isbn": "9789172320352",
+   "spine_height_cm": 16.57,
+   "spine_thickness_cm": 2.92,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": 286.42,
+    "source": "Bokbörsen",
+    "url": "https://www.bokborsen.se/view/Flinga-Rickard/Iskallt-Och-Stenh%C3%A5rt-Mina-Tjugo-%C3%85r-I-Texas-F%C3%A4/14291912?%2Fpartner%2Fgm%2F14291912&%2Fview%2FFlinga-Rickard%2FIskallt-Och-Stenh%C3%A5rt-Mina-Tjugo-%C3%85r-I-Texas-F%C3%A4%2F14291912",
+    "retrieved_at": "2026-10-24T14:49:58.450281Z",
+    "condition_assumed": "Gott skick Bruten rygg",
+    "converted": true,
+    "original_amount": 30.0,
+    "original_currency": "SEK",
+    "quote": "30 SEK",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "Månpocket",
+   "spine_text": "Rickard Flinga ISKALLT OCH STENHÅRT",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00021.jpg",
+    "frames/00022.jpg",
+    "frames/00023.jpg",
+    "frames/00024.jpg",
+    "frames/00025.jpg",
+    "frames/00026.jpg",
+    "frames/00027.jpg",
+    "frames/00028.jpg"
+   ],
+   "box_2d": [
+    219,
+    199,
+    1000,
+    224
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The spine shows author 'Rickard Flinga', title 'ISKALLT OCH STENHÅRT', and the blue crescent moon colophon of Månpocket, matching the 2006 Månpocket paperback edition (ISBN 9789172320352) confirmed on Bokbörsen.",
+   "user_notes": []
+  },
+  {
+   "id": "B48",
+   "shelf": "U1-S2",
+   "position": 2,
+   "frame_ref": "frames/00024.jpg",
+   "status": "identified",
+   "title": "Fiender överallt",
+   "author": "Richard A. Clarke",
+   "edition": "Pocket",
+   "isbn": "9789127108301",
+   "spine_height_cm": 17.169999999999998,
+   "spine_thickness_cm": 3.62,
+   "id_confidence": 0.98,
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": 381.89,
+    "source": "Bokbörsen (Urshults Plock & Prylar)",
+    "url": "https://www.bokborsen.se/view/Richard-A-Clarke/Fiender-%C3%96verallt-Amerikas-Krig-Mot-Terrorism-/11265374?%2Fview%2FRichard-A-Clarke%2FFiender-%C3%96verallt-Amerikas-Krig-Mot-Terrorism-%2F11265374",
+    "retrieved_at": "2026-10-24T14:53:48.536863Z",
+    "condition_assumed": "Mycket gott skick",
+    "converted": true,
+    "original_amount": 40.0,
+    "original_currency": "SEK",
+    "quote": "40 SEK",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "Natur & Kultur",
+   "spine_text": "RICHARD K. CLARKE FIENDER ÖVERALLT",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00021.jpg",
+    "frames/00022.jpg",
+    "frames/00023.jpg",
+    "frames/00024.jpg",
+    "frames/00025.jpg",
+    "frames/00026.jpg",
+    "frames/00027.jpg",
+    "frames/00028.jpg"
+   ],
+   "box_2d": [
+    191,
+    219,
+    1000,
+    250
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The spine shows 'RICHARD A. CLARKE' and 'FIENDER ÖVERALLT' in red and white on a dark blue pocket spine with the Natur & Kultur logo at the base, matching the 2005 Swedish paperback edition.",
+   "user_notes": []
+  },
+  {
+   "id": "B57",
+   "shelf": "U1-S2",
+   "position": 3,
+   "frame_ref": "frames/00024.jpg",
+   "status": "identified",
+   "title": "Flyg fula fluga",
+   "author": "Patricia Cornwell",
+   "edition": "Pocket (2006)",
+   "isbn": "9172637684",
+   "spine_height_cm": 17.91,
+   "spine_thickness_cm": 4.15,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": 467.81,
+    "source": "Bokbörsen (COE)",
+    "url": "https://www.bokborsen.se/index.php?_p=20&f=1&qa=Patricia++Cornwell",
+    "retrieved_at": "2026-10-24T14:52:06.690660Z",
+    "condition_assumed": "Gott skick",
+    "converted": true,
+    "original_amount": 49.0,
+    "original_currency": "SEK",
+    "quote": "49 SEK",
+    "notes": [
+     "the checker could not reopen the page; the price is the search's reading of a page it was grounded on",
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "Norstedts Pocket",
+   "spine_text": "PATRICIA CORNWELL FLUG FULA FLUGA",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00021.jpg",
+    "frames/00022.jpg",
+    "frames/00023.jpg",
+    "frames/00024.jpg",
+    "frames/00025.jpg",
+    "frames/00026.jpg",
+    "frames/00027.jpg",
+    "frames/00028.jpg"
+   ],
+   "box_2d": [
+    168,
+    244,
+    1000,
+    279
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The spine shows 'PATRICIA CORNWELL', a blowfly graphic, 'FLYG FULA FLUGA', and the Norstedts 'N' colophon, matching the 2006 Norstedts Pocket edition.",
+   "user_notes": []
+  },
+  {
+   "id": "B58",
+   "shelf": "U1-S2",
+   "position": 4,
+   "frame_ref": "frames/00024.jpg",
+   "status": "identified",
+   "title": "Car Design",
+   "author": "Paolo Tumminelli",
+   "edition": "Paperback / Flexibound (Designpockets Series, 2004)",
+   "isbn": "9783823845614",
+   "spine_height_cm": 21.630000000000003,
+   "spine_thickness_cm": 7.74,
+   "id_confidence": 0.96,
+   "replacement_cost": {
+    "amount": 9976.3,
+    "source": "AbeBooks",
+    "url": "https://www.abebooks.com/9783823845614/Design-Dtsch.-Engl.-Franz%C3%B6s.-Span-Designpocket-S-3823845616/plp",
+    "retrieved_at": "2026-10-24T14:49:54.094465Z",
+    "converted": true,
+    "original_amount": 105.08,
+    "original_currency": "USD",
+    "quote": "US$ 105.08",
+    "notes": [
+     "converted from USD at the ECB rate of 2026-10-23"
+    ]
+   },
+   "used_value": {
+    "amount": 860.16,
+    "source": "AbeBooks",
+    "url": "https://www.abebooks.com/9783823845614/Design-Dtsch.-Engl.-Franz%C3%B6s.-Span-Designpocket-S-3823845616/plp",
+    "retrieved_at": "2026-10-24T14:49:53.337126Z",
+    "condition_assumed": "Good",
+    "converted": true,
+    "original_amount": 9.06,
+    "original_currency": "USD",
+    "quote": "US$ 9.06",
+    "notes": [
+     "converted from USD at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "teNeues",
+   "spine_text": "Car Design teNeues",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00021.jpg",
+    "frames/00022.jpg",
+    "frames/00023.jpg",
+    "frames/00024.jpg",
+    "frames/00025.jpg",
+    "frames/00026.jpg",
+    "frames/00027.jpg",
+    "frames/00028.jpg"
+   ],
+   "box_2d": [
+    0,
+    249,
+    1000,
+    314
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The bright blue spine shows 'Car Design' and 'teNeues' with a blue car photo at the top, matching the 2004 teNeues Designpockets edition by Paolo Tumminelli.",
+   "user_notes": []
+  },
+  {
+   "id": "B59",
+   "shelf": "U1-S2",
+   "position": 5,
+   "frame_ref": "frames/00024.jpg",
+   "status": "identified",
+   "title": "Clear and Present Danger",
+   "author": "Tom Clancy",
+   "edition": "Paperback",
+   "isbn": "",
+   "spine_height_cm": 19.119999999999997,
+   "spine_thickness_cm": 5.95,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": 665.0,
+    "source": "BooksWagon",
+    "url": "https://www.bookswagon.com/author/tom-clancy",
+    "retrieved_at": "2026-10-24T14:50:13.416554Z",
+    "converted": false,
+    "original_amount": 665.0,
+    "original_currency": "INR",
+    "quote": "₹665",
+    "notes": []
+   },
+   "used_value": {
+    "amount": 712.0,
+    "source": "Bookchor",
+    "url": "https://www.bookchor.com/book/9780006177302/clear-and-present-danger",
+    "retrieved_at": "2026-10-24T14:51:13.870089Z",
+    "condition_assumed": "Good",
+    "converted": false,
+    "original_amount": 712.0,
+    "original_currency": "INR",
+    "quote": "₹ 712",
+    "notes": []
+   },
+   "publisher": "",
+   "spine_text": "WORLDWIDE #1 BESTSELLER TOM CLANCY CLEAR AND PRESENT DANGER",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00021.jpg",
+    "frames/00022.jpg",
+    "frames/00023.jpg",
+    "frames/00024.jpg",
+    "frames/00025.jpg",
+    "frames/00026.jpg",
+    "frames/00027.jpg"
+   ],
+   "box_2d": [
+    103,
+    307,
+    987,
+    357
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The spine shows 'WORLDWIDE #1 BESTSELLER TOM CLANCY CLEAR & PRESENT DANGER', matching retail listings for Tom Clancy's novel Clear and Present Danger.",
+   "user_notes": []
+  },
+  {
+   "id": "B60",
+   "shelf": "U1-S2",
+   "position": 6,
+   "frame_ref": "frames/00024.jpg",
+   "status": "identified",
+   "title": "Executive Orders",
+   "author": "Tom Clancy",
+   "edition": "Paperback",
+   "isbn": "",
+   "spine_height_cm": 19.380000000000003,
+   "spine_thickness_cm": 7.0200000000000005,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": 199.0,
+    "source": "BookMafiya",
+    "url": "https://bookmafiya.com/product/executive-orders-english-paperback-tom-clancy/",
+    "retrieved_at": "2026-10-24T14:50:00.588413Z",
+    "condition_assumed": "Old (Good)",
+    "converted": false,
+    "original_amount": 199.0,
+    "original_currency": "INR",
+    "quote": "Current price is: Rs.199.00.",
+    "notes": [
+     "the page shows it sold out or unavailable"
+    ]
+   },
+   "publisher": "HarperCollins",
+   "spine_text": "WORLDWIDE #1 BESTSELLER TOM CLANCY EXECUTIVE ORDERS",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00021.jpg",
+    "frames/00022.jpg",
+    "frames/00023.jpg",
+    "frames/00024.jpg",
+    "frames/00025.jpg",
+    "frames/00026.jpg",
+    "frames/00027.jpg"
+   ],
+   "box_2d": [
+    49,
+    350,
+    945,
+    409
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The spine clearly prints 'WORLDWIDE #1 BESTSELLER TOM CLANCY EXECUTIVE ORDERS' above the red-and-blue HarperCollins logo, matching catalogue listings for the HarperCollins paperback edition.",
+   "user_notes": []
+  },
+  {
+   "id": "B61",
+   "shelf": "U1-S2",
+   "position": 7,
+   "frame_ref": "frames/00024.jpg",
+   "status": "identified",
+   "title": "SSN",
+   "author": "Tom Clancy",
+   "edition": "Paperback",
+   "isbn": "9780006510277",
+   "spine_height_cm": 18.85,
+   "spine_thickness_cm": 3.62,
+   "id_confidence": 0.98,
+   "replacement_cost": {
+    "amount": 394.0,
+    "source": "Snapdeal",
+    "url": "https://www.snapdeal.com/product/ssn/684664724118",
+    "retrieved_at": "2026-10-24T14:49:14.098973Z",
+    "converted": false,
+    "original_amount": 394.0,
+    "original_currency": "INR",
+    "quote": "₹394",
+    "notes": [
+     "the page shows it sold out or unavailable"
+    ]
+   },
+   "used_value": {
+    "amount": 173.74,
+    "source": "AbeBooks",
+    "url": "https://www.abebooks.com/9780006510277/Ssn-Tom-Clancy-0006510272/plp",
+    "retrieved_at": "2026-10-24T14:49:14.163304Z",
+    "condition_assumed": "Good",
+    "converted": true,
+    "original_amount": 1.83,
+    "original_currency": "USD",
+    "quote": "US$ 1.83",
+    "notes": [
+     "converted from USD at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "HarperCollins",
+   "spine_text": "TOM CLANCY SSN",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00021.jpg",
+    "frames/00022.jpg",
+    "frames/00023.jpg",
+    "frames/00024.jpg",
+    "frames/00025.jpg",
+    "frames/00026.jpg",
+    "frames/00027.jpg"
+   ],
+   "box_2d": [
+    32,
+    401,
+    891,
+    431
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The spine clearly displays 'TOM CLANCY', 'SSN', submarine artwork, and the HarperCollins logo, matching the 1997 HarperCollins mass-market paperback edition (ISBN 9780006510277) confirmed by Bookchor and Snapdeal.",
+   "user_notes": []
+  },
+  {
+   "id": "B62",
+   "shelf": "U1-S2",
+   "position": 8,
+   "frame_ref": "frames/00024.jpg",
+   "status": "identified",
+   "title": "Utan misskund",
+   "author": "Tom Clancy",
+   "edition": "Pocket (1996)",
+   "isbn": "9789171332509",
+   "spine_height_cm": 18.98,
+   "spine_thickness_cm": 6.04,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": 477.36,
+    "source": "KASAK ekonomisk förening (via Bokbörsen)",
+    "url": "https://www.bokborsen.se/view/Clancy-Tom/Utan-Misskund/15980931",
+    "retrieved_at": "2026-10-24T14:50:01.536927Z",
+    "condition_assumed": "Dåligt skick",
+    "converted": true,
+    "original_amount": 50.0,
+    "original_currency": "SEK",
+    "quote": "50 SEK",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "Bra Böcker",
+   "spine_text": "Tom Clancy Utan misskund B",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00021.jpg",
+    "frames/00022.jpg",
+    "frames/00023.jpg",
+    "frames/00024.jpg",
+    "frames/00025.jpg",
+    "frames/00026.jpg",
+    "frames/00027.jpg"
+   ],
+   "box_2d": [
+    0,
+    424,
+    865,
+    474
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The spine clearly shows 'Tom Clancy', 'Utan misskund', and the Bra Böcker ('B') pocket logo at the base, matching the 1996 Swedish paperback edition (ISBN 9789171332509) confirmed on Bokbörsen.",
+   "user_notes": []
+  },
+  {
+   "id": "B63",
+   "shelf": "U1-S2",
+   "position": 9,
+   "frame_ref": "frames/00024.jpg",
+   "status": "identified",
+   "title": "Sista båt från Singapore",
+   "author": "Alistair MacLean",
+   "edition": "",
+   "isbn": "",
+   "spine_height_cm": 17.759999999999998,
+   "spine_thickness_cm": 3.45,
+   "id_confidence": 0.95,
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": 334.15,
+    "source": "Bokbörsen",
+    "url": "https://www.bokborsen.se/view/Alistair-Maclean/Sista-B%C3%A5t-Fr%C3%A5n-Singapore/1771419?%2Fview%2FAlistair-Maclean%2FSista-B%C3%A5t-Fr%C3%A5n-Singapore%2F1771419",
+    "retrieved_at": "2026-10-24T14:53:43.452802Z",
+    "condition_assumed": "Mycket gott skick",
+    "converted": true,
+    "original_amount": 35.0,
+    "original_currency": "SEK",
+    "quote": "35 SEK",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "",
+   "spine_text": "ALISTAIR MACLEAN",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00021.jpg",
+    "frames/00022.jpg",
+    "frames/00023.jpg",
+    "frames/00024.jpg",
+    "frames/00025.jpg",
+    "frames/00026.jpg",
+    "frames/00027.jpg"
+   ],
+   "box_2d": [
+    0,
+    466,
+    821,
+    495
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The spine displays the author 'ALISTAIR MACLEAN' in orange text and the Swedish title 'SISTA BÅT FRÅN SINGAPORE' in yellow text over a green and white illustrated background, confirmed by Goodreads and Bokbörsen.",
+   "user_notes": []
+  },
+  {
+   "id": "B38",
+   "shelf": "U1-S2",
+   "position": 10,
+   "frame_ref": "frames/00023.jpg",
+   "status": "identified",
+   "title": "The Golden Gate",
+   "author": "Alistair MacLean",
+   "edition": "",
+   "isbn": "",
+   "spine_height_cm": null,
+   "spine_thickness_cm": null,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": 1394.85,
+    "source": "HarperCollins Publishers UK",
+    "url": "https://harpercollins.co.uk/products/the-golden-gate-alistair-maclean",
+    "retrieved_at": "2026-10-24T14:53:50.018555Z",
+    "converted": true,
+    "original_amount": 10.99,
+    "original_currency": "GBP",
+    "quote": "List Price: £10.99",
+    "notes": [
+     "the page shows it sold out or unavailable",
+     "converted from GBP at the ECB rate of 2026-10-23"
+    ]
+   },
+   "used_value": {
+    "amount": 616.16,
+    "source": "ThriftBooks",
+    "url": "https://www.thriftbooks.com/a/alistair-maclean/219762/",
+    "retrieved_at": "2026-10-24T14:53:38.594532Z",
+    "condition_assumed": "Acceptable",
+    "converted": true,
+    "original_amount": 6.49,
+    "original_currency": "USD",
+    "quote": "$6.49",
+    "notes": [
+     "converted from USD at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "",
+   "spine_text": "ALISTAIR MACLEAN GOLDEN GATE",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00020.jpg",
+    "frames/00021.jpg",
+    "frames/00022.jpg",
+    "frames/00023.jpg",
+    "frames/00024.jpg",
+    "frames/00025.jpg",
+    "frames/00026.jpg",
+    "frames/00027.jpg"
+   ],
+   "box_2d": [
+    133,
+    484,
+    1000,
+    509
+   ],
+   "size_method": "no whole sighting in a frame with a known-size object",
+   "evidence": "The spine clearly prints 'ALISTAIR MACLEAN GOLDEN GATE', which matches Alistair MacLean's 1976 thriller novel The Golden Gate.",
+   "user_notes": []
+  },
+  {
+   "id": "B39",
+   "shelf": "U1-S2",
+   "position": 11,
+   "frame_ref": "frames/00023.jpg",
+   "status": "identified",
+   "title": "H.M.S. Ulysses",
+   "author": "Alistair MacLean",
+   "edition": "Paperback",
+   "isbn": "",
+   "spine_height_cm": null,
+   "spine_thickness_cm": null,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": 499.0,
+    "source": "HarperCollins India",
+    "url": "https://harpercollins.co.in/product/hms-ulysses/",
+    "retrieved_at": "2026-10-24T14:54:26.626273Z",
+    "converted": false,
+    "original_amount": 499.0,
+    "original_currency": "INR",
+    "quote": "₹\n499.00",
+    "notes": [
+     "the page shows it sold out or unavailable"
+    ]
+   },
+   "used_value": {
+    "amount": 87.0,
+    "source": "BuyUsedBooks.in",
+    "url": "https://www.buyusedbooks.in/Buy%20used%20second%20hand%20books%20Fiction%20-%20Action%20and%20Adventure%20-%20HMS%20Ulysses%20online%20in%20India",
+    "retrieved_at": "2026-10-24T14:54:21.060140Z",
+    "condition_assumed": "used second hand",
+    "converted": false,
+    "original_amount": 87.0,
+    "original_currency": "INR",
+    "quote": "₹87.00",
+    "notes": [
+     "the page shows it sold out or unavailable"
+    ]
+   },
+   "publisher": "",
+   "spine_text": "ALISTAIR MACLEAN H.M.S. ULYSSES",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00020.jpg",
+    "frames/00021.jpg",
+    "frames/00022.jpg",
+    "frames/00023.jpg",
+    "frames/00024.jpg",
+    "frames/00025.jpg",
+    "frames/00026.jpg",
+    "frames/00027.jpg"
+   ],
+   "box_2d": [
+    153,
+    503,
+    1000,
+    524
+   ],
+   "size_method": "no whole sighting in a frame with a known-size object",
+   "evidence": "The white paperback spine prints 'ALISTAIR MACLEAN H.M.S. ULYSSES' in black block letters, matching the novel HMS Ulysses by Alistair MacLean confirmed by HarperCollins India.",
+   "user_notes": []
+  },
+  {
+   "id": "B40",
+   "shelf": "U1-S2",
+   "position": 12,
+   "frame_ref": "frames/00023.jpg",
+   "status": "identified",
+   "title": "Åtta glas",
+   "author": "Alistair MacLean",
+   "edition": "",
+   "isbn": "",
+   "spine_height_cm": null,
+   "spine_thickness_cm": null,
+   "id_confidence": 0.98,
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "condition_assumed": "",
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "publisher": "",
+   "spine_text": "ALISTAIR MACLEAN ÅTTA GLAS",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00020.jpg",
+    "frames/00021.jpg",
+    "frames/00022.jpg",
+    "frames/00023.jpg",
+    "frames/00024.jpg",
+    "frames/00025.jpg",
+    "frames/00026.jpg",
+    "frames/00027.jpg"
+   ],
+   "box_2d": [
+    130,
+    519,
+    1000,
+    538
+   ],
+   "size_method": "no whole sighting in a frame with a known-size object",
+   "evidence": "Spine clearly reads 'ALISTAIR MACLEAN ÅTTA GLAS'; confirmed by Swedish book marketplace listings as the Swedish translation of When Eight Bells Toll by Alistair MacLean.",
+   "user_notes": []
+  },
+  {
+   "id": "B41",
+   "shelf": "U1-S2",
+   "position": 13,
+   "frame_ref": "frames/00023.jpg",
+   "status": "identified",
+   "title": "Örnnästet",
+   "author": "Alistair MacLean",
+   "edition": "Paperback",
+   "isbn": "",
+   "spine_height_cm": null,
+   "spine_thickness_cm": null,
+   "id_confidence": 0.98,
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": 1699.4,
+    "source": "Bokloop (Melodie K.)",
+    "url": "https://bokloop.se/bok/9137080539",
+    "retrieved_at": "2026-10-24T14:55:25.677707Z",
+    "condition_assumed": "Nyskick",
+    "converted": true,
+    "original_amount": 178.0,
+    "original_currency": "SEK",
+    "quote": "178 kr",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "",
+   "spine_text": "ALISTAIR MACLEAN ÖRNNÄSTET",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00020.jpg",
+    "frames/00021.jpg",
+    "frames/00022.jpg",
+    "frames/00023.jpg",
+    "frames/00024.jpg",
+    "frames/00025.jpg",
+    "frames/00026.jpg"
+   ],
+   "box_2d": [
+    136,
+    534,
+    1000,
+    551
+   ],
+   "size_method": "no whole sighting in a frame with a known-size object",
+   "evidence": "The spine clearly prints 'ALISTAIR MACLEAN ÖRNNÄSTET' on a white paperback spine, matching the Swedish translation of Alistair MacLean's Where Eagles Dare confirmed on Bokbörsen.",
+   "user_notes": []
+  },
+  {
+   "id": "B42",
+   "shelf": "U1-S2",
+   "position": 14,
+   "frame_ref": "frames/00023.jpg",
+   "status": "identified",
+   "title": "Linan",
+   "author": "Len Deighton",
+   "edition": "Pocket",
+   "isbn": "9789119027719",
+   "spine_height_cm": 17.85,
+   "spine_thickness_cm": 2.66,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": 849.7,
+    "source": "Bokus",
+    "url": "https://www.bokus.com/bok/9789119027719/linan",
+    "retrieved_at": "2026-10-24T14:49:38.545021Z",
+    "converted": true,
+    "original_amount": 89.0,
+    "original_currency": "SEK",
+    "quote": "89 kr",
+    "notes": [
+     "the page shows it sold out or unavailable",
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "used_value": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "condition_assumed": "",
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "publisher": "PAN/Norstedt",
+   "spine_text": "LEN DEIGHTON LINAN",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00020.jpg",
+    "frames/00021.jpg",
+    "frames/00022.jpg",
+    "frames/00023.jpg",
+    "frames/00024.jpg",
+    "frames/00025.jpg",
+    "frames/00026.jpg"
+   ],
+   "box_2d": [
+    144,
+    546,
+    994,
+    569
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The spine displays 'LEN DEIGHTON', 'Spion' in red script, 'LINAN', and 'PAN' at the bottom, matching the 1991 PAN/Norstedt Swedish paperback edition of Spy Line.",
+   "user_notes": []
+  },
+  {
+   "id": "B43",
+   "shelf": "U1-S2",
+   "position": 15,
+   "frame_ref": "frames/00023.jpg",
+   "status": "identified",
+   "title": "Kroken",
+   "author": "Len Deighton",
+   "edition": "Paperback",
+   "isbn": "9789119210111",
+   "spine_height_cm": 18.25,
+   "spine_thickness_cm": 3.1399999999999997,
+   "id_confidence": 0.98,
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "condition_assumed": "",
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "publisher": "PAN/Norstedt",
+   "spine_text": "LEN DEIGHTON KROKEN",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00020.jpg",
+    "frames/00021.jpg",
+    "frames/00022.jpg",
+    "frames/00023.jpg",
+    "frames/00024.jpg",
+    "frames/00025.jpg",
+    "frames/00026.jpg"
+   ],
+   "box_2d": [
+    121,
+    565,
+    986,
+    592
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The spine shows 'LEN DEIGHTON', 'KROKEN', and 'Pan' at the foot; Bokbörsen confirms this is the 1992 Swedish PAN/Norstedt paperback edition (ISBN 9789119210111).",
+   "user_notes": []
+  },
+  {
+   "id": "B44",
+   "shelf": "U1-S2",
+   "position": 16,
+   "frame_ref": "frames/00023.jpg",
+   "status": "identified",
+   "title": "Spionbetet (Betet)",
+   "author": "Len Deighton",
+   "edition": "Pocketbok",
+   "isbn": "9789119021717",
+   "spine_height_cm": 17.78,
+   "spine_thickness_cm": 3.12,
+   "id_confidence": 0.98,
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": 668.3,
+    "source": "Bokbörsen (Auralis)",
+    "url": "https://www.bokborsen.se/view/Deighton-Len/Spionbetet/15523602?%2Fview%2FDeighton-Len%2FSpionbetet%2F15523602&_p=4&f=1&qs=Auralis",
+    "retrieved_at": "2026-10-24T14:50:27.693634Z",
+    "condition_assumed": "Hyggligt skick",
+    "converted": true,
+    "original_amount": 70.0,
+    "original_currency": "SEK",
+    "quote": "70 SEK",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "PAN/Norstedt",
+   "spine_text": "LEN DEIGHTON BETET",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00020.jpg",
+    "frames/00021.jpg",
+    "frames/00022.jpg",
+    "frames/00023.jpg",
+    "frames/00024.jpg",
+    "frames/00025.jpg",
+    "frames/00026.jpg"
+   ],
+   "box_2d": [
+    109,
+    586,
+    956,
+    613
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The white paperback spine reads 'LEN DEIGHTON', 'Spion-' in red script, 'BETET' in black, and 'Pan' at the foot; Bokbörsen confirms this is the 1990 PAN/Norstedt pocket edition of Spionbetet (Betet) by Len Deighton (ISBN 9789119021717).",
+   "user_notes": []
+  },
+  {
+   "id": "B45",
+   "shelf": "U1-S2",
+   "position": 17,
+   "frame_ref": "frames/00023.jpg",
+   "status": "identified",
+   "title": "Möte i Mexico",
+   "author": "Len Deighton",
+   "edition": "Pocket (1986)",
+   "isbn": "9789176422663",
+   "spine_height_cm": 18.04,
+   "spine_thickness_cm": 3.59,
+   "id_confidence": 0.98,
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": 334.15,
+    "source": "Bokman",
+    "url": "https://www.bokman.nu/index.php?route=product/category&path=228_229&sort=p.sort_order&order=ASC&limit=50&page=26",
+    "retrieved_at": "2026-10-24T14:51:12.060528Z",
+    "condition_assumed": "Gott skick, Biblioteksanpassad",
+    "converted": true,
+    "original_amount": 35.0,
+    "original_currency": "SEK",
+    "quote": "35Kr",
+    "notes": [
+     "the page's copy is another format or edition: The page lists Möte i Mexico in pocket format for 35Kr, but the edition is from 1984 rather than 1986.",
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "MånPocket",
+   "spine_text": "LEN DEIGHTON MÖTE I MEXICO",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00020.jpg",
+    "frames/00021.jpg",
+    "frames/00022.jpg",
+    "frames/00023.jpg",
+    "frames/00024.jpg",
+    "frames/00025.jpg",
+    "frames/00026.jpg"
+   ],
+   "box_2d": [
+    82,
+    608,
+    938,
+    639
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "Spine reads 'LEN DEIGHTON MÖTE I MEXICO' with the blue MånPocket logo at the base; TinyCat library catalogue confirms the 1986 MånPocket paperback edition (ISBN 9789176422663, 18 cm).",
+   "user_notes": []
+  },
+  {
+   "id": "B46",
+   "shelf": "U1-S2",
+   "position": 18,
+   "frame_ref": "frames/00023.jpg",
+   "status": "identified",
+   "title": "Coq Rouge",
+   "author": "Jan Guillou",
+   "edition": "Paperback",
+   "isbn": "",
+   "spine_height_cm": 17.94,
+   "spine_thickness_cm": 3.1399999999999997,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": 849.7,
+    "source": "Bokus",
+    "url": "https://www.bokus.com/bok/9789164201423/coq-rouge",
+    "retrieved_at": "2026-10-24T14:49:07.169378Z",
+    "converted": true,
+    "original_amount": 89.0,
+    "original_currency": "SEK",
+    "quote": "89 kr",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "used_value": {
+    "amount": 865.85,
+    "source": "AbeBooks",
+    "url": "https://www.abebooks.com/9783492255783/Coq-Rouge-Jan-Guillou-3492255787/plp",
+    "retrieved_at": "2026-10-24T14:49:40.366101Z",
+    "condition_assumed": "Very Good",
+    "converted": true,
+    "original_amount": 9.12,
+    "original_currency": "USD",
+    "quote": "US$ 9.12",
+    "notes": [
+     "converted from USD at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "",
+   "spine_text": "Jan Guillou COQ ROUGE",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00020.jpg",
+    "frames/00021.jpg",
+    "frames/00022.jpg",
+    "frames/00023.jpg",
+    "frames/00024.jpg",
+    "frames/00025.jpg",
+    "frames/00026.jpg"
+   ],
+   "box_2d": [
+    59,
+    632,
+    909,
+    659
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The white paperback spine clearly prints 'Jan Guillou' and 'COQ ROUGE', matching Jan Guillou's thriller Coq Rouge confirmed on Bokus.",
+   "user_notes": []
+  },
+  {
+   "id": "B47",
+   "shelf": "U1-S2",
+   "position": 19,
+   "frame_ref": "frames/00024.jpg",
+   "status": "identified",
+   "title": "Den demokratiske terroristen",
+   "author": "Jan Guillou",
+   "edition": "Paperback",
+   "isbn": "",
+   "spine_height_cm": 17.68,
+   "spine_thickness_cm": 2.66,
+   "id_confidence": 0.98,
+   "replacement_cost": {
+    "amount": 2325.11,
+    "source": "Bokklubben",
+    "url": "https://www.bokklubben.no/thrillere-agenter-og-spioner/den-demokratiske-terroristen-jan-guillou/produkt.do?produktId=1913716",
+    "retrieved_at": "2026-10-24T14:53:36.179629Z",
+    "converted": true,
+    "original_amount": 229.0,
+    "original_currency": "NOK",
+    "quote": "229,-",
+    "notes": [
+     "converted from NOK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "used_value": {
+    "amount": 525.1,
+    "source": "Bokbörsen (Antikvariat Esplanad)",
+    "url": "https://www.bokborsen.se/view/Jan-Guillou/Den-Demokratiske-Terroristen/10090556",
+    "retrieved_at": "2026-10-24T14:53:50.243451Z",
+    "condition_assumed": "Nyskick",
+    "converted": true,
+    "original_amount": 55.0,
+    "original_currency": "SEK",
+    "quote": "55 SEK",
+    "notes": [
+     "the page's copy is another format or edition: The book is available and listed for 55 SEK, but its format is hardcover (Inbunden / vitt klotband) rather than paperback.",
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "",
+   "spine_text": "uillou DEN DEMOKRATISKE TERRORISTEN",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00020.jpg",
+    "frames/00021.jpg",
+    "frames/00022.jpg",
+    "frames/00023.jpg",
+    "frames/00024.jpg",
+    "frames/00025.jpg",
+    "frames/00026.jpg"
+   ],
+   "box_2d": [
+    0,
+    654,
+    636,
+    678
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The spine displays the author 'Jan Guillou' and the title 'DEN DEMOKRATISKE TERRORISTEN' on a white paperback spine, matching the novel by Jan Guillou.",
+   "user_notes": []
+  },
+  {
+   "id": "B49",
+   "shelf": "U1-S2",
+   "position": 20,
+   "frame_ref": "frames/00023.jpg",
+   "status": "identified",
+   "title": "I nationens intresse",
+   "author": "Jan Guillou",
+   "edition": "Pocket",
+   "isbn": "",
+   "spine_height_cm": 17.919999999999998,
+   "spine_thickness_cm": 2.9,
+   "id_confidence": 0.98,
+   "replacement_cost": {
+    "amount": 1002.46,
+    "source": "Akademibokhandeln",
+    "url": "https://www.akademibokhandeln.se/bok/i-nationens-intresse/9789164201447",
+    "retrieved_at": "2026-10-24T14:49:37.742458Z",
+    "converted": true,
+    "original_amount": 105.0,
+    "original_currency": "SEK",
+    "quote": "105 kr",
+    "notes": [
+     "the page shows it sold out or unavailable",
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "used_value": {
+    "amount": 229.13,
+    "source": "Bokbörsen (AntikL)",
+    "url": "https://www.bokborsen.se/view/Jan-Guillou/I-Nationens-Intresse/1451183",
+    "retrieved_at": "2026-10-24T14:51:16.208670Z",
+    "condition_assumed": "Hyggligt skick. Mindre reva och veck.",
+    "converted": true,
+    "original_amount": 24.0,
+    "original_currency": "SEK",
+    "quote": "24 SEK",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "",
+   "spine_text": "Jan Guillou I NATIONENS INTRESSE",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00020.jpg",
+    "frames/00021.jpg",
+    "frames/00022.jpg",
+    "frames/00023.jpg",
+    "frames/00024.jpg",
+    "frames/00025.jpg",
+    "frames/00026.jpg"
+   ],
+   "box_2d": [
+    21,
+    676,
+    870,
+    701
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The white paperback spine reads 'Jan Guillou I NATIONENS INTRESSE', matching the Swedish spy thriller by Jan Guillou confirmed on Akademibokhandeln and Bokbörsen.",
+   "user_notes": []
+  },
+  {
+   "id": "B50",
+   "shelf": "U1-S2",
+   "position": 21,
+   "frame_ref": "frames/00023.jpg",
+   "status": "identified",
+   "title": "Ondskan",
+   "author": "Jan Guillou",
+   "edition": "Pocket",
+   "isbn": "",
+   "spine_height_cm": 17.55,
+   "spine_thickness_cm": 2.2,
+   "id_confidence": 0.98,
+   "replacement_cost": {
+    "amount": 849.7,
+    "source": "Bokus",
+    "url": "https://www.bokus.com/bok/9789164204110/ondskan",
+    "retrieved_at": "2026-10-24T14:49:22.284861Z",
+    "converted": true,
+    "original_amount": 89.0,
+    "original_currency": "SEK",
+    "quote": "89 kr",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "used_value": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "condition_assumed": "",
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "publisher": "Piratförlaget",
+   "spine_text": "Jan Guillou ONDSKAN",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00020.jpg",
+    "frames/00021.jpg",
+    "frames/00022.jpg",
+    "frames/00023.jpg",
+    "frames/00024.jpg",
+    "frames/00025.jpg",
+    "frames/00026.jpg"
+   ],
+   "box_2d": [
+    11,
+    697,
+    847,
+    716
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The white pocket spine clearly prints 'Jan Guillou', 'ONDSKAN', and 'Pirat' at the base, matching Piratförlaget's pocket editions confirmed on Bokbörsen and Bokus.",
+   "user_notes": []
+  },
+  {
+   "id": "B51",
+   "shelf": "U1-S2",
+   "position": 22,
+   "frame_ref": "frames/00022.jpg",
+   "status": "identified",
+   "title": "Mustang",
+   "author": "Peter Henshaw",
+   "edition": "Paperback",
+   "isbn": "",
+   "spine_height_cm": 16.66,
+   "spine_thickness_cm": 3.7299999999999995,
+   "id_confidence": 0.95,
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "condition_assumed": "",
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "publisher": "",
+   "spine_text": "MUSTANG Peter Henshaw",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00019.jpg",
+    "frames/00020.jpg",
+    "frames/00021.jpg",
+    "frames/00022.jpg",
+    "frames/00023.jpg",
+    "frames/00024.jpg",
+    "frames/00025.jpg",
+    "frames/00026.jpg"
+   ],
+   "box_2d": [
+    296,
+    714,
+    1000,
+    745
+   ],
+   "size_method": "median of 2 sightings scaled by their frames' anchors, own catalogue height left out; leaning, so the box overstates it",
+   "evidence": "The white paperback spine displays the title 'MUSTANG' vertically in large black letters above the author name 'Peter Henshaw' horizontally, matching Peter Henshaw's book on the Ford Mustang.",
+   "user_notes": []
+  },
+  {
+   "id": "B52",
+   "shelf": "U1-S2",
+   "position": 23,
+   "frame_ref": "frames/00022.jpg",
+   "status": "identified",
+   "title": "Bossen / Dödens lammunge",
+   "author": "Roger Borniche, Donald E. Westlake",
+   "edition": "Paperback (1988)",
+   "isbn": "9789176424469",
+   "spine_height_cm": 17.35,
+   "spine_thickness_cm": 3.31,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": 190.94,
+    "source": "Bokbörsen (Graninge Bruk Antik & Antikvariat)",
+    "url": "https://www.bokborsen.se/view/Roger-Borniche-Donald-Westlake/Bossen-D%C3%B6dens-Lammunge/1146085?%2Fpartner%2Fgm%2F1146085&%2Fview%2FRoger-Borniche-Donald-Westlake%2FBossen-D%C3%B6dens-Lammunge%2F1146085",
+    "retrieved_at": "2026-10-24T14:49:46.898130Z",
+    "condition_assumed": "Gott skick",
+    "converted": true,
+    "original_amount": 20.0,
+    "original_currency": "SEK",
+    "quote": "20 SEK",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "MånPocket",
+   "spine_text": "ROGER JONSSON DISNEY DONALD WESTLAKE DÖDENS LÄRJMÄNGE",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00019.jpg",
+    "frames/00020.jpg",
+    "frames/00021.jpg",
+    "frames/00022.jpg",
+    "frames/00023.jpg",
+    "frames/00024.jpg",
+    "frames/00025.jpg",
+    "frames/00026.jpg"
+   ],
+   "box_2d": [
+    219,
+    742,
+    999,
+    769
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The spine displays 'ROGER BORNICHE BOSSEN' and 'DONALD WESTLAKE DÖDENS LAMMUNGE' with the MånPocket logo, matching the 1988 MånPocket double-volume edition (ISBN 9176424464) confirmed on Bokbörsen.",
+   "user_notes": []
+  },
+  {
+   "id": "B53",
+   "shelf": "U1-S2",
+   "position": 24,
+   "frame_ref": "frames/00022.jpg",
+   "status": "identified",
+   "title": "Dubbelgångaren",
+   "author": "Colin Forbes",
+   "edition": "Paperback",
+   "isbn": "9789176423790",
+   "spine_height_cm": 18.669999999999998,
+   "spine_thickness_cm": 3.4299999999999997,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": 238.68,
+    "source": "Bokbörsen (Malin.R.)",
+    "url": "https://www.bokborsen.se/view/Forbes-Colin-Brunius-Gul/Dubbelg%C3%A5ngaren/11155710?_p=6&f=1&qs=Malin.R",
+    "retrieved_at": "2026-10-24T14:49:33.209811Z",
+    "condition_assumed": "Gott skick",
+    "converted": true,
+    "original_amount": 25.0,
+    "original_currency": "SEK",
+    "quote": "25 SEK",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "MånPocket",
+   "spine_text": "COLIN FORBES DUBBELGÅNGAREN",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00020.jpg",
+    "frames/00021.jpg",
+    "frames/00022.jpg",
+    "frames/00023.jpg",
+    "frames/00024.jpg",
+    "frames/00025.jpg",
+    "frames/00026.jpg"
+   ],
+   "box_2d": [
+    191,
+    767,
+    1000,
+    794
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The spine clearly displays 'COLIN FORBES', 'DUBBELGÅNGAREN', and the MånPocket logo, matching the 1987 MånPocket Swedish paperback edition.",
+   "user_notes": []
+  },
+  {
+   "id": "B54",
+   "shelf": "U1-S2",
+   "position": 25,
+   "frame_ref": "frames/00022.jpg",
+   "status": "unidentified",
+   "title": "",
+   "author": "",
+   "edition": "",
+   "isbn": "",
+   "spine_height_cm": 19.169999999999998,
+   "spine_thickness_cm": 2.2399999999999998,
+   "id_confidence": null,
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "condition_assumed": "",
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "publisher": "",
+   "spine_text": "",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00019.jpg",
+    "frames/00020.jpg",
+    "frames/00021.jpg",
+    "frames/00022.jpg",
+    "frames/00023.jpg",
+    "frames/00024.jpg",
+    "frames/00025.jpg"
+   ],
+   "box_2d": [
+    153,
+    793,
+    999,
+    811
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "no sighting of the spine is readable",
+   "user_notes": []
+  },
+  {
+   "id": "B55",
+   "shelf": "U1-S2",
+   "position": 26,
+   "frame_ref": "frames/00022.jpg",
+   "status": "identified",
+   "title": "Försvararen",
+   "author": "John Grisham",
+   "edition": "Pocket",
+   "isbn": "9789176436165",
+   "spine_height_cm": 19.29,
+   "spine_thickness_cm": 3.05,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": 849.7,
+    "source": "Bokus",
+    "url": "https://www.bokus.com/bok/9789176436165/forsvararen",
+    "retrieved_at": "2026-10-24T14:49:11.215461Z",
+    "converted": true,
+    "original_amount": 89.0,
+    "original_currency": "SEK",
+    "quote": "89 kr",
+    "notes": [
+     "the page shows it sold out or unavailable",
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "used_value": {
+    "amount": 467.81,
+    "source": "Bokbörsen (Pyramid Anderstorp Kommanditbolag)",
+    "url": "https://www.bokborsen.se/view/John-Grisham/F%C3%B6rsvararen/12183563",
+    "retrieved_at": "2026-10-24T14:49:23.417403Z",
+    "condition_assumed": "Hyggligt skick",
+    "converted": true,
+    "original_amount": 49.0,
+    "original_currency": "SEK",
+    "quote": "49 SEK",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "publisher": "MånPocket",
+   "spine_text": "John Grisham Försvararen",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00020.jpg",
+    "frames/00021.jpg",
+    "frames/00022.jpg",
+    "frames/00023.jpg",
+    "frames/00024.jpg",
+    "frames/00025.jpg"
+   ],
+   "box_2d": [
+    157,
+    809,
+    993,
+    833
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "Spine clearly displays 'John Grisham', 'Försvararen', and the MånPocket crescent moon logo; confirmed by Libris catalogue record for the 2000 MånPocket paperback edition.",
+   "user_notes": []
+  },
+  {
+   "id": "B56",
+   "shelf": "U1-S2",
+   "position": 27,
+   "frame_ref": "frames/00022.jpg",
+   "status": "identified",
+   "title": "The Firm",
+   "author": "John Grisham",
+   "edition": "Paperback",
+   "isbn": "",
+   "spine_height_cm": 18.669999999999998,
+   "spine_thickness_cm": 3.6700000000000004,
+   "id_confidence": 0.99,
+   "replacement_cost": {
+    "amount": 587.0,
+    "source": "MyPustak",
+    "url": "https://www.mypustak.com/book/the-firm-john-grisham-9780099537090/1775718",
+    "retrieved_at": "2026-10-24T14:50:09.471327Z",
+    "converted": false,
+    "original_amount": 587.0,
+    "original_currency": "INR",
+    "quote": "₹\n587",
+    "notes": []
+   },
+   "used_value": {
+    "amount": 250.0,
+    "source": "Clankart",
+    "url": "https://www.clankart.com/books/The-Firm-by-John-Grisham?4861716379185301",
+    "retrieved_at": "2026-10-24T14:50:13.316400Z",
+    "condition_assumed": "Good",
+    "converted": false,
+    "original_amount": 250.0,
+    "original_currency": "INR",
+    "quote": "₹ 250",
+    "notes": []
+   },
+   "publisher": "Arrow",
+   "spine_text": "JOHN GRISHAM THE FIRM",
+   "lying": "upright",
+   "frame_refs": [
+    "frames/00019.jpg",
+    "frames/00020.jpg",
+    "frames/00021.jpg",
+    "frames/00022.jpg",
+    "frames/00023.jpg",
+    "frames/00024.jpg",
+    "frames/00025.jpg"
+   ],
+   "box_2d": [
+    128,
+    829,
+    967,
+    859
+   ],
+   "size_method": "median of 1 sightings scaled by their frames' anchors, own catalogue height left out",
+   "evidence": "The spine shows 'JOHN GRISHAM THE FIRM' and the Arrow Books triangle logo at the base, matching the Arrow paperback edition confirmed by Penguin Books.",
+   "user_notes": []
+  }
+ ],
+ "items": [
+  {
+   "id": "I1",
+   "category": "decor",
+   "description": "white miniature wooden church block with a steeple, painted wood",
+   "brand_model": "",
+   "frame_ref": "frames/00003.jpg",
+   "dimensions_cm": {
+    "w": null,
+    "h": null,
+    "d": null
+   },
+   "size_method": "no whole sighting in the shelf plane of a frame with a known-size object",
+   "status": "range",
+   "replacement_cost": {
+    "low": 2654.0,
+    "high": 3271.0,
+    "source": "Etsy India",
+    "url": "https://www.etsy.com/in-en/listing/1328612219/handmade-wooden-old-church-home-decor https://www.etsy.com/in-en/listing/4450667953/handmade-spring-church-diorama-miniature",
+    "retrieved_at": "2026-10-24T14:49:08.322466Z",
+    "converted": false,
+    "quote": "2654.00; 3271.00"
+   },
+   "confidence": null,
+   "material": "wood",
+   "frame_refs": [
+    "frames/00000.jpg",
+    "frames/00001.jpg",
+    "frames/00002.jpg",
+    "frames/00003.jpg",
+    "frames/00004.jpg",
+    "frames/00005.jpg",
+    "frames/00006.jpg"
+   ],
+   "box_2d": [
+    83,
+    444,
+    986,
+    541
+   ],
+   "user_notes": []
+  },
+  {
+   "id": "I2",
+   "category": "decor",
+   "description": "reddish-brown miniature wooden tree block, painted wood",
+   "brand_model": "",
+   "frame_ref": "frames/00004.jpg",
+   "dimensions_cm": {
+    "w": null,
+    "h": null,
+    "d": null
+   },
+   "size_method": "no whole sighting in the shelf plane of a frame with a known-size object",
+   "status": "range",
+   "replacement_cost": {
+    "low": 149.0,
+    "high": 500.0,
+    "source": "Flipkart; IndiaMART",
+    "url": "https://m.indiamart.com/ashandicraft-farrukhabad/wooden-printing-blocks.html https://www.flipkart.com/hi/maycreate-diy-wooden-christmas-tree-decor-miniature-pack-1/p/itm6b2d00c60743d",
+    "retrieved_at": "2026-10-24T14:48:59.190529Z",
+    "converted": false,
+    "quote": "₹ 149; ₹500"
+   },
+   "confidence": null,
+   "material": "wood",
+   "frame_refs": [
+    "frames/00001.jpg",
+    "frames/00002.jpg",
+    "frames/00003.jpg",
+    "frames/00004.jpg",
+    "frames/00005.jpg",
+    "frames/00006.jpg"
+   ],
+   "box_2d": [
+    199,
+    680,
+    662,
+    750
+   ],
+   "user_notes": []
+  },
+  {
+   "id": "I3",
+   "category": "decor",
+   "description": "dark green miniature wooden shop block with black roof labelled Tobacconist and Shoemaker, painted wood",
+   "brand_model": "",
+   "frame_ref": "frames/00004.jpg",
+   "dimensions_cm": {
+    "w": null,
+    "h": null,
+    "d": null
+   },
+   "size_method": "no whole sighting in the shelf plane of a frame with a known-size object",
+   "status": "range",
+   "replacement_cost": {
+    "low": null,
+    "high": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "quote": ""
+   },
+   "confidence": null,
+   "material": "wood",
+   "frame_refs": [
+    "frames/00002.jpg",
+    "frames/00003.jpg",
+    "frames/00004.jpg",
+    "frames/00005.jpg",
+    "frames/00006.jpg",
+    "frames/00007.jpg"
+   ],
+   "box_2d": [
+    237,
+    281,
+    924,
+    353
+   ],
+   "user_notes": []
+  },
+  {
+   "id": "I4",
+   "category": "decor",
+   "description": "red miniature wooden building block with black roof labelled Sweetshop, painted wood",
+   "brand_model": "",
+   "frame_ref": "frames/00004.jpg",
+   "dimensions_cm": {
+    "w": null,
+    "h": null,
+    "d": null
+   },
+   "size_method": "no whole sighting in the shelf plane of a frame with a known-size object",
+   "status": "range",
+   "replacement_cost": {
+    "low": 493.0,
+    "high": 493.0,
+    "source": "Meesho (SRISAIGIFTARTICLES)",
+    "url": "https://www.meesho.com/beautiful-handcrafted-wood-house-showpiece-ghar-decor-item-miniature-art-for-living-roomhandmade-wooden-miniature-house-for-home-decor-unique-gift-item-eco-friendly-showpiece/p/d2lqef",
+    "retrieved_at": "2026-10-24T14:49:50.087767Z",
+    "converted": false,
+    "quote": "₹493"
+   },
+   "confidence": null,
+   "material": "wood",
+   "frame_refs": [
+    "frames/00002.jpg",
+    "frames/00003.jpg",
+    "frames/00004.jpg",
+    "frames/00005.jpg",
+    "frames/00006.jpg"
+   ],
+   "box_2d": [
+    159,
+    357,
+    811,
+    444
+   ],
+   "user_notes": []
+  },
+  {
+   "id": "I5",
+   "category": "decor",
+   "description": "blue-grey miniature wooden building block with dark roof and red double doors, painted wood",
+   "brand_model": "",
+   "frame_ref": "frames/00004.jpg",
+   "dimensions_cm": {
+    "w": null,
+    "h": null,
+    "d": null
+   },
+   "size_method": "no whole sighting in the shelf plane of a frame with a known-size object",
+   "status": "range",
+   "replacement_cost": {
+    "low": 493.0,
+    "high": 493.0,
+    "source": "Meesho",
+    "url": "https://www.meesho.com/beautiful-handcrafted-wood-house-showpiece-ghar-decor-item-miniature-art-for-living-roomhandmade-wooden-miniature-house-for-home-decor-unique-gift-item-eco-friendly-showpiece/p/d2lqef",
+    "retrieved_at": "2026-10-24T14:48:52.677765Z",
+    "converted": false,
+    "quote": "₹493"
+   },
+   "confidence": null,
+   "material": "wood",
+   "frame_refs": [
+    "frames/00002.jpg",
+    "frames/00003.jpg",
+    "frames/00004.jpg",
+    "frames/00005.jpg",
+    "frames/00006.jpg"
+   ],
+   "box_2d": [
+    86,
+    547,
+    751,
+    625
+   ],
+   "user_notes": []
+  },
+  {
+   "id": "I6",
+   "category": "decor",
+   "description": "red miniature wooden schoolhouse block with white windows labelled SCHOOL, painted wood",
+   "brand_model": "",
+   "frame_ref": "frames/00004.jpg",
+   "dimensions_cm": {
+    "w": null,
+    "h": null,
+    "d": null
+   },
+   "size_method": "no whole sighting in the shelf plane of a frame with a known-size object",
+   "status": "range",
+   "replacement_cost": {
+    "low": null,
+    "high": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "quote": ""
+   },
+   "confidence": null,
+   "material": "wood",
+   "frame_refs": [
+    "frames/00002.jpg",
+    "frames/00003.jpg",
+    "frames/00004.jpg",
+    "frames/00005.jpg",
+    "frames/00006.jpg",
+    "frames/00007.jpg"
+   ],
+   "box_2d": [
+    117,
+    589,
+    792,
+    680
+   ],
+   "user_notes": []
+  },
+  {
+   "id": "I7",
+   "category": "other",
+   "description": "clear/grey plastic DVD case with a security label on the spine, plastic",
+   "brand_model": "",
+   "frame_ref": "frames/00004.jpg",
+   "dimensions_cm": {
+    "w": null,
+    "h": null,
+    "d": null
+   },
+   "size_method": "no whole sighting in the shelf plane of a frame with a known-size object",
+   "status": "range",
+   "replacement_cost": {
+    "low": 20.0,
+    "high": 20.0,
+    "source": "Panorama Computronics Private Limited (IndiaMART)",
+    "url": "https://www.floraproduct.com/dvd-cover.html",
+    "retrieved_at": "2026-10-24T14:49:14.571965Z",
+    "converted": false,
+    "quote": "Rs 20"
+   },
+   "confidence": null,
+   "material": "plastic",
+   "frame_refs": [
+    "frames/00003.jpg",
+    "frames/00004.jpg",
+    "frames/00006.jpg"
+   ],
+   "box_2d": [
+    504,
+    62,
+    864,
+    265
+   ],
+   "user_notes": []
+  },
+  {
+   "id": "I8",
+   "category": "decor",
+   "description": "painted wooden cutout figure of a horse and Frycrest Dairy wagon, painted wood",
+   "brand_model": "",
+   "frame_ref": "frames/00005.jpg",
+   "dimensions_cm": {
+    "w": null,
+    "h": null,
+    "d": null
+   },
+   "size_method": "no whole sighting in the shelf plane of a frame with a known-size object",
+   "status": "range",
+   "replacement_cost": {
+    "low": null,
+    "high": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "quote": ""
+   },
+   "confidence": null,
+   "material": "wood",
+   "frame_refs": [
+    "frames/00003.jpg",
+    "frames/00004.jpg",
+    "frames/00005.jpg",
+    "frames/00006.jpg"
+   ],
+   "box_2d": [
+    329,
+    419,
+    576,
+    517
+   ],
+   "user_notes": []
+  },
+  {
+   "id": "I9",
+   "category": "decor",
+   "description": "white and black painted wooden miniature picket fence block (right), painted wood",
+   "brand_model": "",
+   "frame_ref": "frames/00005.jpg",
+   "dimensions_cm": {
+    "w": null,
+    "h": null,
+    "d": null
+   },
+   "size_method": "no whole sighting in the shelf plane of a frame with a known-size object",
+   "status": "range",
+   "replacement_cost": {
+    "low": 145.0,
+    "high": 469.0,
+    "source": "Cliths; Flipkart",
+    "url": "https://www.cliths.com/products/cliths-wooden-garden-fence-set-decorative-mini-fences-for-potted-plants-fairy-garden-decor-home https://www.flipkart.com/p-s-retail-fence-miniatures-fairy-garden-ornamental-decorative-fencing-white-10-pcs-set-showpiece-3-cm/p/itm8bed461e03287 https://www.flipkart.com/serplex-mini-wooden-garden-fence-set-0-03-m-picket/p/itm5d68212cb0286",
+    "retrieved_at": "2026-10-24T14:48:56.387994Z",
+    "converted": false,
+    "quote": "₹145; ₹251; Rs. 469.00"
+   },
+   "confidence": null,
+   "material": "wood",
+   "frame_refs": [
+    "frames/00003.jpg",
+    "frames/00004.jpg",
+    "frames/00005.jpg",
+    "frames/00006.jpg",
+    "frames/00007.jpg"
+   ],
+   "box_2d": [
+    385,
+    650,
+    563,
+    767
+   ],
+   "user_notes": []
+  },
+  {
+   "id": "I10",
+   "category": "shelving",
+   "description": "light wood laminate media shelving unit with compartments, wood laminate",
+   "brand_model": "",
+   "frame_ref": "frames/00005.jpg",
+   "dimensions_cm": {
+    "w": null,
+    "h": null,
+    "d": null
+   },
+   "size_method": "no whole sighting in the shelf plane of a frame with a known-size object",
+   "status": "range",
+   "replacement_cost": {
+    "low": null,
+    "high": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "quote": ""
+   },
+   "confidence": null,
+   "material": "wood laminate",
+   "frame_refs": [
+    "frames/00003.jpg",
+    "frames/00004.jpg",
+    "frames/00005.jpg",
+    "frames/00006.jpg",
+    "frames/00007.jpg",
+    "frames/00008.jpg",
+    "frames/00009.jpg",
+    "frames/00010.jpg",
+    "frames/00011.jpg",
+    "frames/00012.jpg",
+    "frames/00013.jpg",
+    "frames/00014.jpg",
+    "frames/00015.jpg",
+    "frames/00016.jpg",
+    "frames/00017.jpg",
+    "frames/00018.jpg",
+    "frames/00019.jpg",
+    "frames/00020.jpg",
+    "frames/00021.jpg",
+    "frames/00022.jpg",
+    "frames/00023.jpg",
+    "frames/00024.jpg",
+    "frames/00025.jpg",
+    "frames/00026.jpg",
+    "frames/00027.jpg",
+    "frames/00028.jpg",
+    "frames/00029.jpg"
+   ],
+   "box_2d": [
+    262,
+    79,
+    1000,
+    910
+   ],
+   "user_notes": []
+  },
+  {
+   "id": "I11",
+   "category": "other",
+   "description": "black plastic media case, plastic",
+   "brand_model": "",
+   "frame_ref": "frames/00004.jpg",
+   "dimensions_cm": {
+    "w": null,
+    "h": null,
+    "d": null
+   },
+   "size_method": "no whole sighting in the shelf plane of a frame with a known-size object",
+   "status": "range",
+   "replacement_cost": {
+    "low": 7.0,
+    "high": 16.0,
+    "source": "IndiaMART (Goldline Disk Private Limited); IndiaMART (Myswa Ventures Private Limited); IndiaMART (Sai Enterprises)",
+    "url": "https://m.indiamart.com/proddetail/black-plastic-cd-case-15335142333.html https://m.indiamart.com/proddetail/plastic-dvd-cd-case-21262407612.html",
+    "retrieved_at": "2026-10-24T14:48:55.652334Z",
+    "converted": false,
+    "quote": "₹ 7; ₹ 16; ₹ 16"
+   },
+   "confidence": null,
+   "material": "plastic",
+   "frame_refs": [
+    "frames/00004.jpg",
+    "frames/00006.jpg"
+   ],
+   "box_2d": [
+    685,
+    76,
+    945,
+    266
+   ],
+   "user_notes": []
+  },
+  {
+   "id": "I12",
+   "category": "other",
+   "description": "clear plastic media case, plastic",
+   "brand_model": "",
+   "frame_ref": "frames/00004.jpg",
+   "dimensions_cm": {
+    "w": null,
+    "h": null,
+    "d": null
+   },
+   "size_method": "no whole sighting in the shelf plane of a frame with a known-size object",
+   "status": "range",
+   "replacement_cost": {
+    "low": 30.0,
+    "high": 199.0,
+    "source": "Bharathi Systems; Tradeindia (Myswa Ventures Private Limited)",
+    "url": "https://shop.bharathisystems.com/10-pcs-round-design-cases-plastic-clear-white-4-8-diameter-cd-dvd-case/ https://www.tradeindia.com/products/cd-dvd-jewel-case-transparent-tray-c12728718.html",
+    "retrieved_at": "2026-10-24T14:48:55.827206Z",
+    "converted": false,
+    "quote": "30.00 INR (Approx.); ₹199.00"
+   },
+   "confidence": null,
+   "material": "plastic",
+   "frame_refs": [
+    "frames/00004.jpg",
+    "frames/00006.jpg"
+   ],
+   "box_2d": [
+    771,
+    66,
+    999,
+    258
+   ],
+   "user_notes": []
+  },
+  {
+   "id": "I13",
+   "category": "decor",
+   "description": "white and black painted wooden miniature picket fence block (left), painted wood",
+   "brand_model": "",
+   "frame_ref": "frames/00005.jpg",
+   "dimensions_cm": {
+    "w": null,
+    "h": null,
+    "d": null
+   },
+   "size_method": "no whole sighting in the shelf plane of a frame with a known-size object",
+   "status": "range",
+   "replacement_cost": {
+    "low": 130.0,
+    "high": 469.0,
+    "source": "Cliths; Flipkart",
+    "url": "https://www.cliths.com/products/cliths-wooden-garden-fence-set-decorative-mini-fences-for-potted-plants-fairy-garden-decor-home https://www.flipkart.com/p-s-retail-fence-miniatures-fairy-garden-ornamental-decorative-fencing-green-10-pcs-set-showpiece-3-cm/p/itmf19e97e318ec6 https://www.flipkart.com/serplex-mini-wooden-garden-fence-set-0-03-m-picket/p/itm5d68212cb0286",
+    "retrieved_at": "2026-10-24T14:49:06.936919Z",
+    "converted": false,
+    "quote": "₹130; ₹251; Rs. 469.00"
+   },
+   "confidence": null,
+   "material": "wood",
+   "frame_refs": [
+    "frames/00004.jpg",
+    "frames/00005.jpg",
+    "frames/00006.jpg",
+    "frames/00007.jpg"
+   ],
+   "box_2d": [
+    504,
+    359,
+    673,
+    483
+   ],
+   "user_notes": []
+  },
+  {
+   "id": "I14",
+   "category": "other",
+   "description": "row of music CDs in jewel cases in top-left compartment, plastic",
+   "brand_model": "",
+   "frame_ref": "frames/00008.jpg",
+   "dimensions_cm": {
+    "w": null,
+    "h": null,
+    "d": null
+   },
+   "size_method": "no whole sighting in the shelf plane of a frame with a known-size object",
+   "status": "range",
+   "replacement_cost": {
+    "low": 759.0,
+    "high": 3999.0,
+    "source": "Flipkart; Vinyl World",
+    "url": "https://vinylworld.in/product-category/audio-cds/ https://www.flipkart.com/bollywood-party-box-5-pack-audio-collector-s/p/itm7e7ee2236a0b0",
+    "retrieved_at": "2026-10-24T14:48:56.499997Z",
+    "converted": false,
+    "quote": "₹\n759.00; ₹3,999"
+   },
+   "confidence": null,
+   "material": "plastic and paper",
+   "frame_refs": [
+    "frames/00006.jpg",
+    "frames/00007.jpg",
+    "frames/00008.jpg",
+    "frames/00009.jpg"
+   ],
+   "box_2d": [
+    133,
+    180,
+    1000,
+    362
+   ],
+   "user_notes": []
+  },
+  {
+   "id": "I15",
+   "category": "shelving",
+   "description": "light wood laminate shelving unit adjacent to main bookcase, wood laminate",
+   "brand_model": "",
+   "frame_ref": "frames/00011.jpg",
+   "dimensions_cm": {
+    "w": null,
+    "h": null,
+    "d": null
+   },
+   "size_method": "no whole sighting in the shelf plane of a frame with a known-size object",
+   "status": "range",
+   "replacement_cost": {
+    "low": 1403.0,
+    "high": 4890.0,
+    "source": "Flipkart; Godrej Interio; Pepperfry",
+    "url": "https://interio.com/living-room/cabinets/book-shelves https://www.flipkart.com/ecstacy-engineered-wood-open-book-shelf/p/itm8a93faa840572 https://www.pepperfry.com/category/book-shelves.html",
+    "retrieved_at": "2026-10-24T14:53:29.094869Z",
+    "converted": false,
+    "quote": "₹1,403; ₹1,770; ₹4,890"
+   },
+   "confidence": null,
+   "material": "wood laminate",
+   "frame_refs": [
+    "frames/00010.jpg",
+    "frames/00011.jpg",
+    "frames/00027.jpg"
+   ],
+   "box_2d": [
+    498,
+    892,
+    1000,
+    929
+   ],
+   "user_notes": []
+  },
+  {
+   "id": "I16",
+   "category": "other",
+   "description": "row of music CDs in jewel cases in top middle-left compartment, plastic",
+   "brand_model": "",
+   "frame_ref": "frames/00008.jpg",
+   "dimensions_cm": {
+    "w": null,
+    "h": null,
+    "d": null
+   },
+   "size_method": "no whole sighting in the shelf plane of a frame with a known-size object",
+   "status": "range",
+   "replacement_cost": {
+    "low": 236.0,
+    "high": 1449.0,
+    "source": "Flipkart",
+    "url": "https://www.flipkart.com/hi/hindi-film-hits-vol-1-audio-standard/p/itmc6cae3d609bb3 https://www.flipkart.com/sound-bollywood-25-audio-cd-audio-limited/p/itme17ce992aaa36",
+    "retrieved_at": "2026-10-24T14:48:53.853945Z",
+    "converted": false,
+    "quote": "₹236; ₹1,449"
+   },
+   "confidence": null,
+   "material": "plastic and paper",
+   "frame_refs": [
+    "frames/00006.jpg",
+    "frames/00007.jpg",
+    "frames/00008.jpg",
+    "frames/00009.jpg"
+   ],
+   "box_2d": [
+    81,
+    373,
+    916,
+    543
+   ],
+   "user_notes": []
+  },
+  {
+   "id": "I17",
+   "category": "other",
+   "description": "yellow CD case lying horizontally on top of vertical CDs, cardboard",
+   "brand_model": "",
+   "frame_ref": "frames/00006.jpg",
+   "dimensions_cm": {
+    "w": null,
+    "h": null,
+    "d": null
+   },
+   "size_method": "no whole sighting in the shelf plane of a frame with a known-size object",
+   "status": "range",
+   "replacement_cost": {
+    "low": 2.9,
+    "high": 650.0,
+    "source": "Flipkart; IndiaMART (Manoj Trading Co.); MUJI India",
+    "url": "https://m.indiamart.com/proddetail/cd-mailer-brown-envelope-23027348912.html https://muji.in/product/kraft-paper-cd-holder-11546612 https://www.flipkart.com/techguy4u-paper-dvd-mailer-bubble-envelopes-6-5-x-6-5-inch-brown-color/p/itmfdnydwy2cau4m",
+    "retrieved_at": "2026-10-24T14:49:02.316686Z",
+    "converted": false,
+    "quote": "₹ 2.90; ₹420; ₹650"
+   },
+   "confidence": null,
+   "material": "cardboard",
+   "frame_refs": [
+    "frames/00006.jpg"
+   ],
+   "box_2d": [
+    579,
+    373,
+    694,
+    512
+   ],
+   "user_notes": []
+  },
+  {
+   "id": "I18",
+   "category": "other",
+   "description": "row of music CDs in jewel cases in top middle-right compartment, plastic",
+   "brand_model": "",
+   "frame_ref": "frames/00008.jpg",
+   "dimensions_cm": {
+    "w": null,
+    "h": null,
+    "d": null
+   },
+   "size_method": "no whole sighting in the shelf plane of a frame with a known-size object",
+   "status": "range",
+   "replacement_cost": {
+    "low": 1799.0,
+    "high": 3999.0,
+    "source": "Flipkart",
+    "url": "https://www.flipkart.com/bollywood-party-box-5-pack-audio-collector-s/p/itm7e7ee2236a0b0 https://www.flipkart.com/music-road-3-audio-pack-limited/p/itm72b0b71371064 https://www.flipkart.com/omg-best-party-ever-3-music-audio-cds-limited/p/itmffe44ad58eb78 https://www.flipkart.com/ultimate-rock-collection-3-pack-audio-limited/p/itm32095f8a0bede",
+    "retrieved_at": "2026-10-24T14:49:08.928749Z",
+    "converted": false,
+    "quote": "₹1,799; ₹1,818; ₹2,509; ₹3,999"
+   },
+   "confidence": null,
+   "material": "plastic and paper",
+   "frame_refs": [
+    "frames/00006.jpg",
+    "frames/00007.jpg",
+    "frames/00008.jpg",
+    "frames/00009.jpg"
+   ],
+   "box_2d": [
+    0,
+    554,
+    823,
+    717
+   ],
+   "user_notes": []
+  },
+  {
+   "id": "I19",
+   "category": "other",
+   "description": "row of music CDs in jewel cases in top-right compartment, plastic",
+   "brand_model": "",
+   "frame_ref": "frames/00007.jpg",
+   "dimensions_cm": {
+    "w": null,
+    "h": null,
+    "d": null
+   },
+   "size_method": "no whole sighting in the shelf plane of a frame with a known-size object",
+   "status": "range",
+   "replacement_cost": {
+    "low": 3999.0,
+    "high": 3999.0,
+    "source": "Flipkart",
+    "url": "https://www.flipkart.com/bollywood-party-box-5-pack-audio-collector-s/p/itm7e7ee2236a0b0",
+    "retrieved_at": "2026-10-24T14:48:47.578725Z",
+    "converted": false,
+    "quote": "₹3,999"
+   },
+   "confidence": null,
+   "material": "plastic",
+   "frame_refs": [
+    "frames/00006.jpg",
+    "frames/00007.jpg",
+    "frames/00008.jpg",
+    "frames/00009.jpg"
+   ],
+   "box_2d": [
+    138,
+    725,
+    983,
+    888
+   ],
+   "user_notes": []
+  },
+  {
+   "id": "I20",
+   "category": "other",
+   "description": "row of music CDs in jewel cases in second-row leftmost compartment, plastic",
+   "brand_model": "",
+   "frame_ref": "frames/00009.jpg",
+   "dimensions_cm": {
+    "w": null,
+    "h": null,
+    "d": null
+   },
+   "size_method": "no whole sighting in the shelf plane of a frame with a known-size object",
+   "status": "range",
+   "replacement_cost": {
+    "low": 399.0,
+    "high": 2509.0,
+    "source": "Flipkart; Harmonie Audio; MusicCircle",
+    "url": "https://musiccircle.co.in/products/mahesh-chander-padmaja-%E0%A4%97%E0%A5%80%E0%A4%A4-%E0%A4%A8%E0%A4%AF%E0%A4%BE-%E0%A4%97%E0%A4%BE%E0%A4%A4%E0%A4%BE-%E0%A4%B9%E0%A5%82%E0%A4%81-cd https://www.flipkart.com/hi/ultimate-rock-collection-3-pack-audio-limited/p/itm32095f8a0bede?pid=MSIHMTNVQRJZWBVG&lid=LSTMSIHMTNVQRJZWBVGTJ4LVJ&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D https://www.harmonieaudio.com/product/billie-eilish-happier-than-ever-cd/ https://www.harmonieaudio.com/product/eminem-the-marshall-mathers-lp-cd/",
+    "retrieved_at": "2026-10-24T14:54:07.679385Z",
+    "converted": false,
+    "quote": "399.0; ₹1,799; ₹2,509; ₹1,999"
+   },
+   "confidence": null,
+   "material": "plastic",
+   "frame_refs": [
+    "frames/00009.jpg",
+    "frames/00015.jpg"
+   ],
+   "box_2d": [
+    770,
+    184,
+    1000,
+    363
+   ],
+   "user_notes": []
+  },
+  {
+   "id": "I21",
+   "category": "other",
+   "description": "row of music CDs in jewel cases in second-row middle-left compartment, plastic",
+   "brand_model": "",
+   "frame_ref": "frames/00009.jpg",
+   "dimensions_cm": {
+    "w": null,
+    "h": null,
+    "d": null
+   },
+   "size_method": "no whole sighting in the shelf plane of a frame with a known-size object",
+   "status": "range",
+   "replacement_cost": {
+    "low": 500.0,
+    "high": 500.0,
+    "source": "The Revolver Club",
+    "url": "https://www.therevolverclub.com/collections/music-cds",
+    "retrieved_at": "2026-10-24T14:48:59.953163Z",
+    "converted": false,
+    "quote": "₹ 500.00"
+   },
+   "confidence": null,
+   "material": "plastic",
+   "frame_refs": [
+    "frames/00009.jpg"
+   ],
+   "box_2d": [
+    672,
+    374,
+    1000,
+    540
+   ],
+   "user_notes": []
+  },
+  {
+   "id": "I22",
+   "category": "other",
+   "description": "row of music CDs in jewel cases in second-row middle-right compartment, plastic",
+   "brand_model": "",
+   "frame_ref": "frames/00009.jpg",
+   "dimensions_cm": {
+    "w": null,
+    "h": null,
+    "d": null
+   },
+   "size_method": "no whole sighting in the shelf plane of a frame with a known-size object",
+   "status": "range",
+   "replacement_cost": {
+    "low": 1500.0,
+    "high": 2850.0,
+    "source": "Audio CDs World; Paradise Audiophile",
+    "url": "https://www.audiocdworld.com/product-category/premium-audio-cd-online/ https://www.paradiseaudiophile.com/shop-20",
+    "retrieved_at": "2026-10-24T14:48:59.175642Z",
+    "converted": false,
+    "quote": "₹1,500.00; ₹2,850.00"
+   },
+   "confidence": null,
+   "material": "plastic",
+   "frame_refs": [
+    "frames/00008.jpg",
+    "frames/00009.jpg"
+   ],
+   "box_2d": [
+    581,
+    553,
+    1000,
+    712
+   ],
+   "user_notes": []
+  },
+  {
+   "id": "I23",
+   "category": "other",
+   "description": "group of four music CDs in jewel cases in second-row rightmost compartment, plastic",
+   "brand_model": "",
+   "frame_ref": "frames/00009.jpg",
+   "dimensions_cm": {
+    "w": null,
+    "h": null,
+    "d": null
+   },
+   "size_method": "no whole sighting in the shelf plane of a frame with a known-size object",
+   "status": "range",
+   "replacement_cost": {
+    "low": 250.0,
+    "high": 3000.0,
+    "source": "IndiaMART (Ultra D Multiventures Pvt.); Paradise Audiophile; Total Kannada; Tune Back Store",
+    "url": "https://m.indiamart.com/proddetail/seasons-by-shubha-mudgal-musical-cd-12211577962.html https://tunebackstore.com/products/ghazal-masterpieces-4-cd-promotional-set-audio-cd https://www.paradiseaudiophile.com/product-page/the-magic-of-nasir-husain-films-audio-cd-hindi-film-songs-4-cd-pack-saregama https://www.totalkannada.com/catalogue/2e8054ee-d86d-41b2-9ac3-325cfffccc75.html?ref=menu",
+    "retrieved_at": "2026-10-24T14:49:03.131121Z",
+    "converted": false,
+    "quote": "₹ 250; ₹270; Rs. 499.00; ₹3,000.00"
+   },
+   "confidence": null,
+   "material": "plastic",
+   "frame_refs": [
+    "frames/00008.jpg",
+    "frames/00009.jpg"
+   ],
+   "box_2d": [
+    552,
+    722,
+    1000,
+    759
+   ],
+   "user_notes": []
+  }
+ ],
+ "totals": {
+  "book_count": 63,
+  "books_identified": 56,
+  "books_unidentified": 7,
+  "shelf_run_m": 1.526,
+  "books_replacement_cost": 47868.94,
+  "books_used_value": 11495.71,
+  "items_replacement_cost_low": 14968.9,
+  "items_replacement_cost_high": 33775.0,
+  "excluded_from_totals": 35
+ },
+ "review_queue": [
+  {
+   "ref_id": "B32",
+   "reason": "replacement: the page shows it sold out or unavailable"
+  },
+  {
+   "ref_id": "B32",
+   "reason": "no spine size: no whole sighting in a frame with a known-size object"
+  },
+  {
+   "ref_id": "B1",
+   "reason": "used: the page shows it sold out or unavailable"
+  },
+  {
+   "ref_id": "B1",
+   "reason": "no spine size: no whole sighting in a frame with a known-size object"
+  },
+  {
+   "ref_id": "B33",
+   "reason": "replacement: the page shows it sold out or unavailable"
+  },
+  {
+   "ref_id": "B33",
+   "reason": "no spine size: no whole sighting in a frame with a known-size object"
+  },
+  {
+   "ref_id": "B34",
+   "reason": "no spine size: no whole sighting in a frame with a known-size object"
+  },
+  {
+   "ref_id": "B12",
+   "reason": "no spine size: no whole sighting in a frame with a known-size object"
+  },
+  {
+   "ref_id": "B23",
+   "reason": "no spine size: no whole sighting in a frame with a known-size object"
+  },
+  {
+   "ref_id": "B26",
+   "reason": "replacement: no price found; then no price found"
+  },
+  {
+   "ref_id": "B26",
+   "reason": "no spine size: no whole sighting in a frame with a known-size object"
+  },
+  {
+   "ref_id": "B27",
+   "reason": "no spine size: no whole sighting in a frame with a known-size object"
+  },
+  {
+   "ref_id": "B28",
+   "reason": "replacement: the page shows it sold out or unavailable"
+  },
+  {
+   "ref_id": "B35",
+   "reason": "replacement: the checker did not find it priced on the page: The page is for a different item ('Mannen som älskade boaormar och andra bagateller'), not 'Överklassen i Sverige'.; then neither the search nor the checker could open https://www.bokus.com/bok/9789189044869/annette-pa-sista-sidan"
+  },
+  {
+   "ref_id": "B29",
+   "reason": "no sighting of the spine is readable"
+  },
+  {
+   "ref_id": "B31",
+   "reason": "replacement: the page shows it sold out or unavailable"
+  },
+  {
+   "ref_id": "B2",
+   "reason": "replacement: no price found; then no price found"
+  },
+  {
+   "ref_id": "B3",
+   "reason": "no sighting of the spine is readable"
+  },
+  {
+   "ref_id": "B4",
+   "reason": "replacement: no price found; then the price search failed: ClientError: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Request contains an invalid argument.', 'status': 'INVALID_ARGUMENT'}}"
+  },
+  {
+   "ref_id": "B4",
+   "reason": "used: the checker did not find it priced on the page: The URL is a search results page displaying multiple listings rather than an individual product page. Per the rules, a search page is not listed.; then the price search failed: ClientError: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Request contains an invalid argument.', 'status': 'INVALID_ARGUMENT'}}"
+  },
+  {
+   "ref_id": "B6",
+   "reason": "used: the checker did not find it priced on the page: The URL is a search results page containing multiple listings rather than an individual product page for the claimed item.; then the checker did not find it priced on the page: The page is a search results page displaying multiple listings, and under the rules a search page is not listed."
+  },
+  {
+   "ref_id": "B6",
+   "reason": "replacement: the page shows it sold out or unavailable"
+  },
+  {
+   "ref_id": "B7",
+   "reason": "used: the checker did not find it priced on the page: The URL leads to a search results page for 'Skapa!' and does not list the claimed book 'Kodboken : Konsten att skapa sekretess' by Simon Singh. Per the rules, a search page or different item is not listed.; then the checker did not find it priced on the page: The URL is a search results page with 26 listings ('Sökträffar 1-26 av 26') rather than a specific product page. Per the rules, a search page is not listed."
+  },
+  {
+   "ref_id": "B7",
+   "reason": "replacement: the page shows it sold out or unavailable"
+  },
+  {
+   "ref_id": "B8",
+   "reason": "replacement: no price found; then no price found"
+  },
+  {
+   "ref_id": "B9",
+   "reason": "no spine size: no whole sighting in a frame with a known-size object"
+  },
+  {
+   "ref_id": "B10",
+   "reason": "replacement: no price found; then no price found"
+  },
+  {
+   "ref_id": "B10",
+   "reason": "used: the checker did not find it priced on the page: The URL is a search results page, which according to the rules is not listed.; then the checker did not find it priced on the page: The page is a search results page (Sökträffar 781-810 av 1593), not a product page. Per the rules, a search page is not listed."
+  },
+  {
+   "ref_id": "B10",
+   "reason": "no spine size: no whole sighting in a frame with a known-size object"
+  },
+  {
+   "ref_id": "B11",
+   "reason": "replacement: no price found; then no price found"
+  },
+  {
+   "ref_id": "B11",
+   "reason": "used: the checker did not find it priced on the page: The URL is a search results page rather than an individual product page, and by rule a search page is not listed. Furthermore, the claimed 1998 paperback edition for 29 SEK does not appear among the results.; then the checker did not find it priced on the page: The URL is a search results page. According to the rules, a search page is not listed."
+  },
+  {
+   "ref_id": "B13",
+   "reason": "replacement: the page shows it sold out or unavailable"
+  },
+  {
+   "ref_id": "B14",
+   "reason": "replacement: no price found; then no price found"
+  },
+  {
+   "ref_id": "B14",
+   "reason": "used: the checker did not find it priced on the page: The page states that the item has been sold ('Artikel är såld') and does not display a price for it.; then the checker did not find it priced on the page: The URL is a search results page displaying multiple listings rather than a product page for a specific item."
+  },
+  {
+   "ref_id": "B16",
+   "reason": "the book was not identified"
+  },
+  {
+   "ref_id": "B16",
+   "reason": "no spine size: not identified yet"
+  },
+  {
+   "ref_id": "B17",
+   "reason": "replacement: the page shows it sold out or unavailable"
+  },
+  {
+   "ref_id": "B18",
+   "reason": "no sighting of the spine is readable"
+  },
+  {
+   "ref_id": "B19",
+   "reason": "replacement: no price found; then no price found"
+  },
+  {
+   "ref_id": "B21",
+   "reason": "replacement: no price found; then no price found"
+  },
+  {
+   "ref_id": "B24",
+   "reason": "replacement: the page's copy is another format or edition: The page lists the book Mördare utan ansikte by Henning Mankell for 239 kr and available for order, but the format is Häftad (trade paperback) rather than Pocket."
+  },
+  {
+   "ref_id": "B37",
+   "reason": "replacement: no price found; then no price found"
+  },
+  {
+   "ref_id": "B48",
+   "reason": "replacement: no price found; then no price found"
+  },
+  {
+   "ref_id": "B57",
+   "reason": "replacement: neither the search nor the checker could open https://www.bokus.com/b/9789172637689.html?pt=search_result; then neither the search nor the checker could open https://www.bokus.com/bok/9789172637689/flyg-fula-fluga"
+  },
+  {
+   "ref_id": "B57",
+   "reason": "used: the checker could not reopen the page; the price is the search's reading of a page it was grounded on"
+  },
+  {
+   "ref_id": "B60",
+   "reason": "replacement: the checker did not find it priced on the page: The page is a search and catalog results page ('Refine your Search', 1540 results found) rather than an individual product listing page. Under the rules, a search page is not listed.; then the checker did not find it priced on the page: The page opened and corresponds to Executive Orders by Tom Clancy, but the retrieved page content was truncated within header scripts and does not display any price, format, or availability details."
+  },
+  {
+   "ref_id": "B60",
+   "reason": "used: the page shows it sold out or unavailable"
+  },
+  {
+   "ref_id": "B61",
+   "reason": "replacement: the page shows it sold out or unavailable"
+  },
+  {
+   "ref_id": "B62",
+   "reason": "replacement: no price found; then no price found"
+  },
+  {
+   "ref_id": "B63",
+   "reason": "replacement: no price found; then no price found"
+  },
+  {
+   "ref_id": "B38",
+   "reason": "replacement: the page shows it sold out or unavailable"
+  },
+  {
+   "ref_id": "B38",
+   "reason": "no spine size: no whole sighting in a frame with a known-size object"
+  },
+  {
+   "ref_id": "B39",
+   "reason": "replacement: the page shows it sold out or unavailable"
+  },
+  {
+   "ref_id": "B39",
+   "reason": "used: the page shows it sold out or unavailable"
+  },
+  {
+   "ref_id": "B39",
+   "reason": "no spine size: no whole sighting in a frame with a known-size object"
+  },
+  {
+   "ref_id": "B40",
+   "reason": "replacement: no price found; then no price found"
+  },
+  {
+   "ref_id": "B40",
+   "reason": "used: the checker did not find it priced on the page: The page is a search results page ('Sökträffar 31-60 av 78') rather than an individual product page, which per the rules counts as not listed. Furthermore, no copy of the book is listed at 58 SEK on this page.; then the checker did not find it priced on the page: The URL redirects to a search results page ('Sökträffar 1-30 av 78') with multiple listings rather than the specific item page."
+  },
+  {
+   "ref_id": "B40",
+   "reason": "no spine size: no whole sighting in a frame with a known-size object"
+  },
+  {
+   "ref_id": "B41",
+   "reason": "replacement: no price found; then no price found"
+  },
+  {
+   "ref_id": "B41",
+   "reason": "no spine size: no whole sighting in a frame with a known-size object"
+  },
+  {
+   "ref_id": "B42",
+   "reason": "used: the checker did not find it priced on the page: The provided URL is a search results page (displaying search hits 181-210 for Len Deighton). According to the rules, a search page is not listed.; then the checker did not find it priced on the page: The page is a search results page ('Sökträffar 211-240 av 365') rather than an individual product listing. Per the rules, a search page is not listed."
+  },
+  {
+   "ref_id": "B42",
+   "reason": "replacement: the page shows it sold out or unavailable"
+  },
+  {
+   "ref_id": "B43",
+   "reason": "replacement: no price found; then no price found"
+  },
+  {
+   "ref_id": "B43",
+   "reason": "used: the checker did not find it priced on the page: The page is a search results page ('Sökträffar 1-2 av 2') displaying search results rather than a single product listing. Per the rules, a search page is not listed.; then the checker did not find it priced on the page: The page is a search results page ('Sökträffar 1-2 av 2') rather than a product page, which according to the rules is not listed."
+  },
+  {
+   "ref_id": "B44",
+   "reason": "replacement: no price found; then no price found"
+  },
+  {
+   "ref_id": "B45",
+   "reason": "the checker could not open the confirming page: The page could not be accessed."
+  },
+  {
+   "ref_id": "B45",
+   "reason": "replacement: no price found; then no price found"
+  },
+  {
+   "ref_id": "B45",
+   "reason": "used: the page's copy is another format or edition: The page lists Möte i Mexico in pocket format for 35Kr, but the edition is from 1984 rather than 1986."
+  },
+  {
+   "ref_id": "B47",
+   "reason": "used: the page's copy is another format or edition: The book is available and listed for 55 SEK, but its format is hardcover (Inbunden / vitt klotband) rather than paperback."
+  },
+  {
+   "ref_id": "B49",
+   "reason": "replacement: the page shows it sold out or unavailable"
+  },
+  {
+   "ref_id": "B50",
+   "reason": "used: the checker did not find it priced on the page: The URL is a search results page displaying multiple listings ('Sökträffar 91-120 av 238'), and by the rules, a search page is not considered listed.; then the checker did not find it priced on the page: The provided URL is a search results page rather than an individual product listing page. Under the rules, a search page is not listed."
+  },
+  {
+   "ref_id": "B51",
+   "reason": "replacement: the checker did not find it priced on the page: The page is for 'The Ultimate Encyclopedia of the: Corvette' (Hardback), which is a different book than the claimed 'Mustang'.; then the checker did not find it priced on the page: The page is for a different book, 'Spitfire, Mustang and the Meredith Effect' by Peter Spring (Hardback, priced at ₹3,006), rather than 'Mustang' by Peter Henshaw."
+  },
+  {
+   "ref_id": "B51",
+   "reason": "used: neither the search nor the checker could open https://www.thriftbooks.com/w/mustang_peter-henshaw/669584/; then neither the search nor the checker could open https://www.thriftbooks.com/w/mustang_peter-henshaw/669584/"
+  },
+  {
+   "ref_id": "B52",
+   "reason": "replacement: no price found; then no price found"
+  },
+  {
+   "ref_id": "B53",
+   "reason": "replacement: no price found; then no price found"
+  },
+  {
+   "ref_id": "B54",
+   "reason": "no sighting of the spine is readable"
+  },
+  {
+   "ref_id": "B55",
+   "reason": "the checker could not open the confirming page: The page could not be accessed due to an automated bot detection check."
+  },
+  {
+   "ref_id": "B55",
+   "reason": "replacement: the page shows it sold out or unavailable"
+  },
+  {
+   "ref_id": "I3",
+   "reason": "no checked price: the checker did not find it priced on the page: The page is an Etsy search results listing page and does not list the claimed miniature wooden shop block.; the checker did not find it priced on the page: The provided URL is an Etsy search/market results page featuring multiple items rather than a dedicated product page. Under the rules, a search page is not listed.; the checker did not find it priced on the page: The page is an Etsy market/search results page, and the claimed item ('Small Wooden Houses in Pastel Colors...') is not listed on it. Under the provided rules, a search page or an item not shown is not listed.; the checker did not find it priced on the page: The provided URL is an Etsy search/market category page rather than a specific product listing page, which under the rules is considered not listed."
+  },
+  {
+   "ref_id": "I6",
+   "reason": "no checked price: the checker did not find it priced on the page: The URL is an Etsy search/market results page rather than an individual product listing page, which under the rules is not considered listed. Additionally, the specific item claimed is not present on the page.; the checker did not find it priced on the page: The URL is an Etsy search and category landing page ('market') displaying multiple items, not an individual product listing page. Per the instructions, a search page is not listed.; the checker did not find it priced on the page: The page is an Etsy search results/market page displaying various products rather than an individual product listing. Per the rules, a search page is not considered listed.; the checker did not find it priced on the page: The page is a search/category results page on Etsy rather than a product listing page, so the item is not listed according to the rules."
+  },
+  {
+   "ref_id": "I8",
+   "reason": "no checked price: the checker did not find it priced on the page: The page offers a contemporary decorative 'White Wooden Horse Cart' made in India, not the claimed 'painted wooden cutout figure of a horse and Frycrest Dairy wagon'.; the checker did not find it priced on the page: The page is a collection page for eCraftIndia decorative wooden cutouts and wall art, and does not list the claimed 'painted wooden cutout figure of a horse and Frycrest Dairy wagon'.; the checker did not find it priced on the page: The page displays a 'SAMIKA Wooden Horse Cart Showpiece', which is a completely different item from the claimed 'painted wooden cutout figure of a horse and Frycrest Dairy wagon', and no price is shown for it on the page.; the checker did not find it priced on the page: The product on the page is a KAYKON Wooden Horse-cart With Leather Horse showpiece, not the claimed painted wooden cutout figure of a horse and Frycrest Dairy wagon."
+  },
+  {
+   "ref_id": "I9",
+   "reason": "Flipkart: the page's copy is another format or edition: The page lists the white color variant of the miniature fence set at ₹145 instead of the claimed violet variant at ₹157."
+  },
+  {
+   "ref_id": "I9",
+   "reason": "Cliths: the page's copy is another format or edition: The page lists the Cliths Wooden Garden Fence Set for Rs. 469.00 and it is currently in stock. However, the product sold is an unfinished pine MDF kit rather than the painted wood item specified in the claim."
+  },
+  {
+   "ref_id": "I10",
+   "reason": "no checked price: the checker did not find it priced on the page: The page is a category product listing page and does not display the claimed media shelving unit or the specified price.; the checker did not find it priced on the page: The page is a category/search listing page showing multiple products rather than a dedicated product page for the claimed item.; the checker did not find it priced on the page: The page is a category listing page rather than an individual product page, and does not list the specified light wood laminate shelving unit with a dedicated price."
+  },
+  {
+   "ref_id": "I12",
+   "reason": "Bharathi Systems: the page shows it sold out or unavailable"
+  },
+  {
+   "ref_id": "I13",
+   "reason": "Flipkart: the page's copy is another format or edition: The page lists the Green (10 pcs/Set) variant of the P s retail miniature fencing showpiece instead of the White variant, priced at ₹130 rather than ₹145."
+  },
+  {
+   "ref_id": "I13",
+   "reason": "Cliths: the page's copy is another format or edition: The page offers the Cliths Wooden Garden Fence Set in stock for Rs. 469.00, but it is made of unfinished pine MDF rather than pre-painted wood."
+  },
+  {
+   "ref_id": "I16",
+   "reason": "Flipkart: the page shows it sold out or unavailable"
+  },
+  {
+   "ref_id": "I17",
+   "reason": "Flipkart: the page shows it sold out or unavailable"
+  },
+  {
+   "ref_id": "I17",
+   "reason": "MUJI India: the page shows it sold out or unavailable"
+  },
+  {
+   "ref_id": "I18",
+   "reason": "Flipkart: the page shows it sold out or unavailable"
+  },
+  {
+   "ref_id": "I23",
+   "reason": "Tune Back Store: the page shows it sold out or unavailable"
+  },
+  {
+   "ref_id": "I23",
+   "reason": "Paradise Audiophile: the page shows it sold out or unavailable"
+  },
+  {
+   "ref_id": "pipeline",
+   "reason": "identify: ClientError: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Request contains an invalid argument.', 'status': 'INVALID_ARGUMENT'}}"
+  },
+  {
+   "ref_id": "room",
+   "reason": "room not measured: no frame showed the A4 sheet on the floor, so the room was not measured"
+  }
+ ],
+ "second_market": [
+  {
+   "book_id": "B19",
+   "country": "United Kingdom",
+   "currency": "GBP",
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": 2.11,
+    "source": "Bokbörsen (HökmossensBöcker)",
+    "url": "https://www.bokborsen.se/view/Dan-Josefsson/V%C3%A4lkommen-Till-Dramafabriken/13549351?%2Fview%2FDan-Josefsson%2FV%C3%A4lkommen-Till-Dramafabriken%2F13549351&%2Fview%2FDan-Josefsson%2FV%C3%A4lkommen-Till-Dramafabriken%2F13549351&%2Fview%2FDan-Josefsson%2FV%C3%A4lkommen-Till-Dramafabriken%2F13549351&_p=14&f=1&qs=H%C3%B6kmossensB%C3%B6cker",
+    "retrieved_at": "2026-10-24T14:49:40.389691Z",
+    "condition_assumed": "Mycket gott skick.",
+    "converted": true,
+    "original_amount": 28.0,
+    "original_currency": "SEK",
+    "quote": "28 SEK",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   }
+  },
+  {
+   "book_id": "B46",
+   "country": "United Kingdom",
+   "currency": "GBP",
+   "replacement_cost": {
+    "amount": 6.69,
+    "source": "Bokus",
+    "url": "https://www.bokus.com/bok/9789164201423/coq-rouge",
+    "retrieved_at": "2026-10-24T14:49:41.745150Z",
+    "converted": true,
+    "original_amount": 89.0,
+    "original_currency": "SEK",
+    "quote": "89 kr",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "used_value": {
+    "amount": 3.02,
+    "source": "AbeBooks",
+    "url": "https://www.abebooks.co.uk/9783492233705/Coq-Rouge-Coq-Rouge-Thriller-Piper-Taschenbuch-3492233708/plp",
+    "retrieved_at": "2026-10-24T14:49:41.324563Z",
+    "condition_assumed": "Near Fine",
+    "converted": false,
+    "original_amount": 3.02,
+    "original_currency": "GBP",
+    "quote": "£ 3.02",
+    "notes": []
+   }
+  },
+  {
+   "book_id": "B22",
+   "country": "United Kingdom",
+   "currency": "GBP",
+   "replacement_cost": {
+    "amount": 24.0,
+    "source": "Bokus",
+    "url": "https://www.bokus.com/forfattare/henning-mankell",
+    "retrieved_at": "2026-10-24T14:49:55.663553Z",
+    "converted": true,
+    "original_amount": 319.0,
+    "original_currency": "SEK",
+    "quote": "319 kr",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "used_value": {
+    "amount": 9.88,
+    "source": "AbeBooks",
+    "url": "https://www.abebooks.com/vita-lejoninnan-Henning-Mankell-Ordfronts/32151130133/bd",
+    "retrieved_at": "2026-10-24T14:49:53.776413Z",
+    "condition_assumed": "Used - Good",
+    "converted": true,
+    "original_amount": 13.21,
+    "original_currency": "USD",
+    "quote": "US$ 13.21",
+    "notes": [
+     "converted from USD at the ECB rate of 2026-10-23"
+    ]
+   }
+  },
+  {
+   "book_id": "B55",
+   "country": "United Kingdom",
+   "currency": "GBP",
+   "replacement_cost": {
+    "amount": 6.69,
+    "source": "Bokus",
+    "url": "https://www.bokus.com/bok/9789176436165/forsvararen",
+    "retrieved_at": "2026-10-24T14:49:41.149864Z",
+    "converted": true,
+    "original_amount": 89.0,
+    "original_currency": "SEK",
+    "quote": "89 kr",
+    "notes": [
+     "the page shows it sold out or unavailable",
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "used_value": {
+    "amount": 0.75,
+    "source": "Bokbörsen (ylvashylla )",
+    "url": "https://www.bokborsen.se/view/Grisham-John/F%C3%B6rsvararen/15464809?%2Fview%2FGrisham-John%2FF%C3%B6rsvararen%2F15464809&%2Fview%2FGrisham-John%2FF%C3%B6rsvararen%2F15464809&%2Fview%2FGrisham-John%2FF%C3%B6rsvararen%2F15464809&_p=5&f=1&qs=ylvashylla",
+    "retrieved_at": "2026-10-24T14:50:00.484505Z",
+    "condition_assumed": "Gott skick",
+    "converted": true,
+    "original_amount": 10.0,
+    "original_currency": "SEK",
+    "quote": "10 SEK",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   }
+  },
+  {
+   "book_id": "B43",
+   "country": "United Kingdom",
+   "currency": "GBP",
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "condition_assumed": "",
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   }
+  },
+  {
+   "book_id": "B2",
+   "country": "United Kingdom",
+   "currency": "GBP",
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "condition_assumed": "",
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   }
+  },
+  {
+   "book_id": "B57",
+   "country": "United Kingdom",
+   "currency": "GBP",
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": 3.38,
+    "source": "Antikvariat Fagus",
+    "url": "https://fagus.se/bok.php?id=8730",
+    "retrieved_at": "2026-10-24T14:50:44.638813Z",
+    "condition_assumed": "nyskick",
+    "converted": true,
+    "original_amount": 45.0,
+    "original_currency": "SEK",
+    "quote": "45 kr",
+    "notes": [
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   }
+  },
+  {
+   "book_id": "B61",
+   "country": "United Kingdom",
+   "currency": "GBP",
+   "replacement_cost": {
+    "amount": 5.53,
+    "source": "AbeBooks",
+    "url": "https://www.abebooks.co.uk/9780425159118/Ssn-Strategies-Submarine-Warfare-Clancy-0425159116/plp",
+    "retrieved_at": "2026-10-24T14:51:03.461293Z",
+    "converted": false,
+    "original_amount": 5.53,
+    "original_currency": "GBP",
+    "quote": "£ 5.53",
+    "notes": []
+   },
+   "used_value": {
+    "amount": 1.33,
+    "source": "AbeBooks",
+    "url": "https://www.abebooks.co.uk/9780006510277/SSN-Clancy-Tom-0006510272/plp",
+    "retrieved_at": "2026-10-24T14:50:52.244917Z",
+    "condition_assumed": "Very Good",
+    "converted": false,
+    "original_amount": 1.33,
+    "original_currency": "GBP",
+    "quote": "£ 1.33",
+    "notes": []
+   }
+  },
+  {
+   "book_id": "B13",
+   "country": "United Kingdom",
+   "currency": "GBP",
+   "replacement_cost": {
+    "amount": 6.69,
+    "source": "Bokus",
+    "url": "https://www.bokus.com/bok/9789100110000/varldens-daligaste-sprak-tankar-om-spraket-och-manniskan-idag",
+    "retrieved_at": "2026-10-24T14:51:21.787787Z",
+    "converted": true,
+    "original_amount": 89.0,
+    "original_currency": "SEK",
+    "quote": "89 kr",
+    "notes": [
+     "the page shows it sold out or unavailable",
+     "converted from SEK at the ECB rate of 2026-10-23"
+    ]
+   },
+   "used_value": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "condition_assumed": "",
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   }
+  },
+  {
+   "book_id": "B36",
+   "country": "United Kingdom",
+   "currency": "GBP",
+   "replacement_cost": {
+    "amount": null,
+    "source": "",
+    "url": "",
+    "retrieved_at": null,
+    "converted": false,
+    "original_amount": null,
+    "original_currency": "",
+    "quote": "",
+    "notes": []
+   },
+   "used_value": {
+    "amount": 7.13,
+    "source": "Medimops",
+    "url": "https://www.medimops.de/david-diamond-just-for-fun-wie-ein-freak-die-computerwelt-revolutionierte-die-biographie-des-linux-erfinders-taschenbuch-M03423362995.html",
+    "retrieved_at": "2026-10-24T14:52:11.366548Z",
+    "condition_assumed": "Gebraucht - Gut",
+    "converted": true,
+    "original_amount": 8.51,
+    "original_currency": "EUR",
+    "quote": "8,51 €",
+    "notes": [
+     "converted from EUR at the ECB rate of 2026-10-23"
+    ]
+   }
+  }
+ ],
+ "excluded_by_user": [],
+ "sweep_ended_at": "2026-10-24T14:46:30.381451Z",
+ "packet_at": "2026-10-24T14:58:17.739299Z",
+ "stages": [
+  {
+   "name": "frame check",
+   "started_at": "2026-10-24T14:46:01.378817Z",
+   "finished_at": "2026-10-24T14:46:01.378817Z",
+   "calls": 30,
+   "tokens_in": 39240,
+   "tokens_out": 11332,
+   "searches": 0,
+   "usd": 0.07192499999999999,
+   "call_seconds": [
+    5.1,
+    4.8,
+    4.6,
+    3.9,
+    5.2,
+    6.6,
+    7.1,
+    9.2,
+    6.2,
+    10.1,
+    8.5,
+    10.7,
+    7.1,
+    5.7,
+    9.0,
+    6.6,
+    8.9,
+    6.3,
+    5.1,
+    8.9,
+    8.4,
+    5.7,
+    4.7,
+    9.1,
+    4.8,
+    4.4,
+    9.4,
+    7.3,
+    4.5,
+    5.7
+   ]
+  },
+  {
+   "name": "read",
+   "started_at": "2026-10-24T14:46:06.472169Z",
+   "finished_at": "2026-10-24T14:47:55.492370Z",
+   "calls": 60,
+   "tokens_in": 132066,
+   "tokens_out": 62958,
+   "searches": 0,
+   "usd": 0.8937119999999998,
+   "call_seconds": [
+    5.6,
+    7.9,
+    7.6,
+    6.1,
+    10.5,
+    5.4,
+    5.4,
+    16.8,
+    4.6,
+    8.1,
+    6.4,
+    15.0,
+    16.1,
+    9.4,
+    8.8,
+    20.7,
+    25.5,
+    17.2,
+    12.5,
+    11.5,
+    22.4,
+    11.3,
+    19.2,
+    16.0,
+    20.6,
+    22.9,
+    14.6,
+    11.1,
+    9.3,
+    9.7,
+    16.3,
+    16.4,
+    16.0,
+    14.5,
+    15.3,
+    23.6,
+    14.2,
+    29.0,
+    16.7,
+    48.1,
+    34.5,
+    50.0,
+    35.0,
+    37.5,
+    26.3,
+    44.8,
+    26.2,
+    35.7,
+    35.4,
+    28.5,
+    31.5,
+    34.9,
+    33.5,
+    34.2,
+    39.3,
+    39.8,
+    39.2,
+    42.4,
+    57.5,
+    93.4
+   ]
+  },
+  {
+   "name": "track",
+   "started_at": "2026-10-24T14:46:16.946394Z",
+   "finished_at": "2026-10-24T14:58:17.730203Z",
+   "calls": 9,
+   "tokens_in": 175666,
+   "tokens_out": 13513,
+   "searches": 0,
+   "usd": 0.486462,
+   "call_seconds": [
+    5.4,
+    7.4,
+    10.4,
+    20.8,
+    30.6,
+    25.2,
+    49.4,
+    17.7,
+    35.6
+   ]
+  },
+  {
+   "name": "item price",
+   "started_at": "2026-10-24T14:48:27.027292Z",
+   "finished_at": "2026-10-24T14:54:47.686106Z",
+   "calls": 103,
+   "tokens_in": 865772,
+   "tokens_out": 138081,
+   "searches": 40,
+   "usd": 1.8714236999999998,
+   "call_seconds": [
+    13.5,
+    16.0,
+    17.4,
+    18.6,
+    18.6,
+    19.9,
+    20.0,
+    20.1,
+    5.1,
+    22.4,
+    6.5,
+    23.5,
+    24.0,
+    6.2,
+    4.4,
+    7.4,
+    26.5,
+    26.5,
+    5.6,
+    26.8,
+    6.5,
+    6.1,
+    27.5,
+    5.1,
+    9.5,
+    28.5,
+    8.3,
+    5.6,
+    8.5,
+    8.1,
+    5.3,
+    4.5,
+    5.0,
+    5.3,
+    4.3,
+    15.5,
+    4.2,
+    3.8,
+    14.7,
+    4.2,
+    33.8,
+    4.6,
+    16.0,
+    4.5,
+    13.8,
+    9.2,
+    11.6,
+    12.3,
+    6.0,
+    10.5,
+    35.9,
+    17.2,
+    6.6,
+    6.5,
+    37.1,
+    8.4,
+    3.5,
+    10.2,
+    4.7,
+    24.8,
+    12.5,
+    22.2,
+    22.4,
+    22.6,
+    6.7,
+    14.0,
+    7.3,
+    27.7,
+    44.4,
+    17.9,
+    18.8,
+    9.5,
+    9.8,
+    10.1,
+    21.0,
+    13.0,
+    21.6,
+    14.1,
+    10.9,
+    19.3,
+    16.0,
+    43.3,
+    19.8,
+    31.4,
+    50.5,
+    34.4,
+    38.3,
+    74.1,
+    22.7,
+    23.3,
+    4.5,
+    7.7,
+    8.1,
+    9.1,
+    24.0,
+    26.9,
+    24.9,
+    42.1,
+    81.9,
+    5.9,
+    7.2,
+    12.8,
+    83.5
+   ]
+  },
+  {
+   "name": "identify",
+   "started_at": "2026-10-24T14:48:31.560929Z",
+   "finished_at": "2026-10-24T14:55:57.491226Z",
+   "calls": 121,
+   "tokens_in": 1307407,
+   "tokens_out": 120221,
+   "searches": 74,
+   "usd": 3.3456692500000007,
+   "call_seconds": [
+    16.3,
+    19.9,
+    20.6,
+    22.1,
+    23.1,
+    23.8,
+    25.8,
+    26.2,
+    10.1,
+    26.4,
+    6.0,
+    28.8,
+    29.1,
+    29.4,
+    8.2,
+    31.1,
+    30.3,
+    3.3,
+    31.6,
+    32.6,
+    9.2,
+    34.0,
+    33.9,
+    33.6,
+    13.4,
+    4.2,
+    37.0,
+    38.1,
+    12.9,
+    12.6,
+    6.2,
+    7.1,
+    12.6,
+    40.8,
+    12.6,
+    6.4,
+    12.4,
+    13.0,
+    46.0,
+    48.6,
+    12.3,
+    50.6,
+    51.2,
+    50.9,
+    10.1,
+    53.0,
+    7.2,
+    54.8,
+    3.5,
+    26.3,
+    6.4,
+    57.3,
+    12.6,
+    11.2,
+    33.6,
+    11.8,
+    65.3,
+    13.0,
+    14.1,
+    67.6,
+    4.5,
+    41.6,
+    16.4,
+    8.9,
+    85.3,
+    87.1,
+    3.6,
+    91.2,
+    9.2,
+    14.0,
+    115.4,
+    16.5,
+    136.1,
+    7.6,
+    7.7,
+    18.3,
+    21.0,
+    20.4,
+    23.2,
+    23.6,
+    24.4,
+    24.3,
+    24.4,
+    4.7,
+    4.1,
+    4.4,
+    3.4,
+    4.8,
+    7.4,
+    12.6,
+    35.4,
+    11.1,
+    39.6,
+    46.3,
+    48.4,
+    11.8,
+    4.9,
+    19.5,
+    9.9,
+    64.4,
+    65.3,
+    67.2,
+    4.8,
+    72.9,
+    3.9,
+    77.3,
+    81.2,
+    3.8,
+    15.9,
+    11.7,
+    4.5,
+    10.4,
+    101.0,
+    7.3,
+    112.5,
+    20.4,
+    144.1,
+    14.3,
+    19.0,
+    164.9,
+    13.0
+   ]
+  },
+  {
+   "name": "price",
+   "started_at": "2026-10-24T14:48:58.773095Z",
+   "finished_at": "2026-10-24T14:58:17.729954Z",
+   "calls": 177,
+   "tokens_in": 2224946,
+   "tokens_out": 228876,
+   "searches": 9,
+   "usd": 2.686978625000001,
+   "call_seconds": [
+    7.2,
+    6.5,
+    6.8,
+    6.7,
+    5.2,
+    4.9,
+    15.3,
+    4.5,
+    6.6,
+    17.1,
+    9.3,
+    9.9,
+    5.8,
+    19.0,
+    12.1,
+    17.1,
+    6.1,
+    17.1,
+    17.3,
+    5.3,
+    17.6,
+    9.2,
+    16.7,
+    19.1,
+    6.3,
+    14.4,
+    7.0,
+    5.9,
+    9.9,
+    6.7,
+    15.9,
+    7.1,
+    47.1,
+    15.2,
+    9.4,
+    6.7,
+    17.8,
+    19.7,
+    7.1,
+    25.3,
+    19.2,
+    18.7,
+    19.3,
+    10.7,
+    4.4,
+    35.4,
+    11.7,
+    5.2,
+    49.6,
+    17.7,
+    12.2,
+    12.5,
+    11.4,
+    8.0,
+    34.9,
+    14.2,
+    20.0,
+    5.3,
+    30.4,
+    7.1,
+    24.8,
+    21.8,
+    16.1,
+    20.7,
+    29.8,
+    38.3,
+    9.5,
+    52.6,
+    20.5,
+    14.5,
+    60.5,
+    41.7,
+    8.1,
+    17.0,
+    21.0,
+    12.5,
+    13.3,
+    53.5,
+    58.5,
+    6.0,
+    36.3,
+    3.6,
+    4.3,
+    55.4,
+    27.2,
+    7.2,
+    31.2,
+    20.1,
+    52.7,
+    12.9,
+    107.9,
+    5.7,
+    6.1,
+    39.9,
+    6.6,
+    34.0,
+    22.3,
+    10.2,
+    32.3,
+    86.1,
+    13.2,
+    113.2,
+    23.1,
+    49.5,
+    61.7,
+    9.8,
+    45.9,
+    45.9,
+    94.7,
+    41.4,
+    5.9,
+    6.4,
+    25.5,
+    6.6,
+    31.1,
+    4.2,
+    4.9,
+    7.3,
+    6.7,
+    9.3,
+    6.1,
+    9.5,
+    13.5,
+    14.7,
+    17.4,
+    21.3,
+    4.7,
+    15.9,
+    3.3,
+    6.5,
+    27.2,
+    17.3,
+    36.5,
+    11.3,
+    3.8,
+    23.1,
+    7.5,
+    13.0,
+    23.8,
+    4.4,
+    9.9,
+    36.0,
+    32.2,
+    30.7,
+    7.7,
+    45.5,
+    8.2,
+    15.2,
+    13.0,
+    15.5,
+    6.8,
+    14.5,
+    34.1,
+    23.5,
+    49.2,
+    58.1,
+    4.7,
+    6.5,
+    13.5,
+    10.5,
+    57.7,
+    6.1,
+    6.4,
+    68.3,
+    16.8,
+    81.3,
+    5.8,
+    4.6,
+    22.5,
+    22.5,
+    50.0,
+    50.7,
+    37.0,
+    6.8,
+    16.7,
+    135.3,
+    13.4
+   ]
+  },
+  {
+   "name": "second market",
+   "started_at": "2026-10-24T14:48:58.773206Z",
+   "finished_at": "2026-10-24T14:52:11.368829Z",
+   "calls": 26,
+   "tokens_in": 201789,
+   "tokens_out": 26608,
+   "searches": 3,
+   "usd": 0.35062392499999995,
+   "call_seconds": [
+    25.8,
+    28.3,
+    36.0,
+    15.7,
+    30.5,
+    8.7,
+    4.7,
+    35.9,
+    5.4,
+    46.1,
+    4.3,
+    6.8,
+    28.0,
+    41.9,
+    45.7,
+    90.8,
+    6.1,
+    7.1,
+    96.1,
+    6.9,
+    18.1,
+    124.2,
+    6.5,
+    15.8,
+    171.8,
+    6.8
+   ]
+  },
+  {
+   "name": "room",
+   "started_at": "2026-10-24T14:52:59.107996Z",
+   "finished_at": "2026-10-24T14:52:59.108856Z",
+   "calls": 0,
+   "tokens_in": 0,
+   "tokens_out": 0,
+   "searches": 0,
+   "usd": 0.0,
+   "call_seconds": []
+  }
+ ],
+ "cost_usd": 9.7068,
+ "assumptions": [
+  "Prices are in INR for India; a price from another market is converted at the ECB rate of its day and marked converted.",
+  "Replacement cost is a new copy of the same work, the same format where the edition is known; used value is a second-hand listing in the condition it states.",
+  "Any line priced at or above 100,000 INR, and anything the identifier judged rare, signed, antiquarian or first edition, goes to appraisal unpriced.",
+  "Identified lines with confidence under 0.8 are kept and also listed in the review queue.",
+  "Spine sizes come from known-size objects located in the same frame (an A4 sheet, catalogue heights of identified books); a book's own catalogue height is left out of its measurement.",
+  "Frames the frame model judged blurred or dark were not read.",
+  "Item width and height come from the same frame scale, only for objects the reader placed at the depth of the spines; depth is not measured.",
+  "Room sizes come from an A4 sheet lying on the floor: floor points through its homography, heights through the camera pose it gives; wall area is perimeter times ceiling height less openings of at least 0 m2.",
+  "The live session is billed from the tokens the Live API reports per turn, at list prices per modality; other stages from each call's tokens and searches."
+ ],
+ "final": true
+}

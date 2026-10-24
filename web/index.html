@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Library sweep</title>
+  <style>
+    :root { --paper: #f6f5f1; --ink: #1f2328; --muted: #57606a; --rule: #d8dce0; --accent: #0e5e57; --warn: #8a5a00; --bad: #b3261e; }
+    * { box-sizing: border-box; }
+    body { margin: 0; padding: 12px 16px 32px; background: var(--paper); color: var(--ink); font: 16px/1.45 system-ui, sans-serif; }
+    h1 { font-size: 19px; margin: 0; }
+    .muted { color: var(--muted); font-size: 14px; }
+    .bar { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; margin-bottom: 8px; }
+    video { width: 100%; max-height: 42vh; object-fit: cover; border-radius: 10px; background: #000; display: block; }
+    .row { display: flex; gap: 8px; margin: 10px 0; }
+    button { flex: 1; font: inherit; font-weight: 600; padding: 14px; border: 0; border-radius: 10px; background: var(--accent); color: #fff; }
+    button.stop { background: #fff; color: var(--ink); border: 1px solid var(--rule); }
+    button:disabled { opacity: .45; }
+    .check { min-height: 24px; font-size: 15px; }
+    .check.problem { color: var(--warn); font-weight: 600; }
+    .counts { display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; margin: 8px 0; }
+    .counts div { background: #fff; border: 1px solid var(--rule); border-radius: 8px; padding: 6px; text-align: center; font-size: 12px; color: var(--muted); }
+    .counts b { display: block; font-size: 20px; color: var(--ink); }
+    h2 { font-size: 15px; margin: 14px 0 6px; }
+    ul { list-style: none; margin: 0; padding: 0; background: #fff; border: 1px solid var(--rule); border-radius: 8px; max-height: 30vh; overflow-y: auto; }
+    li { padding: 6px 10px; border-bottom: 1px solid var(--rule); font-size: 14px; }
+    li:last-child { border-bottom: 0; }
+    .agent { color: var(--accent); } .user { color: var(--ink); }
+    .done { background: #e7f3ef; border: 1px solid #b8dccf; border-radius: 10px; padding: 12px; margin-top: 12px; }
+    .done a { color: var(--accent); font-weight: 600; }
+    .error { color: var(--bad); }
+  </style>
+</head>
+<body>
+  <div class="bar"><h1>Library sweep</h1><span class="muted" id="status">Not started</span></div>
+  <video id="view" playsinline muted autoplay></video>
+  <div class="row">
+    <button id="start">Start sweep</button>
+    <button id="finish" class="stop" disabled>I'm done</button>
+  </div>
+  <div class="check muted" id="check">Place A4 sheets on a shelf edge and on the floor, then press Start sweep.</div>
+  <div class="counts">
+    <div><b id="books">0</b>books</div>
+    <div><b id="identified">0</b>identified</div>
+    <div><b id="priced">0</b>priced</div>
+    <div><b id="items">0</b>other items</div>
+  </div>
+  <div id="result"></div>
+  <h2>Logged</h2>
+  <ul id="log"></ul>
+  <h2>Conversation</h2>
+  <ul id="talk"></ul>
+  <script type="module" src="sweep.js"></script>
+</body>
+</html>

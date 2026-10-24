@@ -1,0 +1,68 @@
+book_id,unit,shelf,position,is_book,legible_person,title,author,notes
+s1-n01,U1,TOP,1,n,n,,,stack of thin disc cases (CD/DVD) lying on top of the bookcase; not books
+s1-n02,U1,TOP,2,n,n,,,row of painted wooden house and church ornaments on top of the bookcase; not books
+s1-n03,U1,S1,1,n,n,,,four cubbies of CD cases (upper CD row); not books; not counted individually
+s1-n04,U1,S2,1,n,n,,,four cubbies of CD cases (lower CD row; right cubby mostly empty); not books; not counted individually
+s1-001,U1,S3,1,y,y,Freakonomics,Steven D. Levitt & Stephen J. Dubner,
+s1-002,U1,S3,2,y,y,The Undercover Economist,Tim Harford,
+s1-003,U1,S3,3,y,y,Fast Food Nation,Eric Schlosser,
+s1-004,U1,S3,4,y,y,Why Do People Hate America?,Ziauddin Sardar & Merryl Wyn Davies,author names small
+s1-005,U1,S3,5,y,y,No Logo,Naomi Klein,
+s1-006,U1,S3,6,y,y,Why Not Me?,Al Franken,
+s1-007,U1,S3,7,y,partial,Vem är Björn och vem är,,title cut by photo spine; last word starts with B; author line too small
+s1-008,U1,S3,8,y,y,Everything Bad Is Good for You,Steven Johnson,
+s1-009,U1,S3,9,y,y,Sex and the City,Candace Bushnell,
+s1-010,U1,S3,10,y,y,Överklassen i Sverige,Annette Kullenberg,
+s1-011,U1,S3,11,y,n,,,red spine with photo; small yellow text unreadable
+s1-012,U1,S3,12,y,partial,Bokhandlaren i Kabul,Åsne Seierstad,patterned spine; text blurry but readable at 3x
+s1-013,U1,S3,13,y,y,Stupid White Men,Michael Moore,
+s1-014,U1,S3,14,y,y,Just for Fun,Linus Torvalds,
+s1-015,U1,S3,15,y,y,Ett svenskt geni,David Lagercrantz,
+s1-016,U1,S3,16,y,n,,,thin green spine; tiny text unreadable
+s1-017,U1,S3,17,y,y,Mediernas svarta bok,Maria-Pia Boëthius,
+s1-018,U1,S3,18,y,n,,,spine with car photo; yellow text unreadable
+s1-019,U1,S3,19,y,y,Skurkstater,Noam Chomsky,
+s1-020,U1,S3,20,y,y,Kodboken,Simon Singh,
+s1-021,U1,S3,21,y,y,Krona eller euro?,,
+s1-022,U1,S3,22,y,y,Populärmusik från Vittula,Mikael Niemi,
+s1-023,U1,S3,23,y,partial,I mördarens spår (1),Lynda La Plante,yellow spine; subtitle too small
+s1-024,U1,S3,24,y,partial,I mördarens spår (2),Lynda La Plante,black spine; subtitle too small
+s1-025,U1,S3,25,y,y,Världens dåligaste språk,Fredrik Lindström,
+s1-026,U1,S3,26,y,partial,Jordens smartaste ord,Fredrik Lindström,middle word faint
+s1-027,U1,S3,27,y,y,Italien,Tomas Lappalainen,
+s1-028,U1,S3,28,y,y,Maffia,Tomas Lappalainen,
+s1-029,U1,S3,29,y,y,Homicide: A Year on the Killing Streets,David Simon,
+s1-030,U1,S3,30,y,y,Män är från Mars kvinnor är från Venus,John Gray,
+s1-031,U1,S3,31,y,y,Välkommen till Dramafabriken,Dan Josefsson,
+s1-032,U1,S3,32,y,n,,,black spine; title blurry; small subtitle unreadable
+s1-033,U1,S3,33,y,y,Ge och ta kritik på rätt sätt,,author too small
+s1-034,U1,S3,34,y,y,Den vita lejoninnan,Henning Mankell,
+s1-035,U1,S3,35,y,y,Mördare utan ansikte,Henning Mankell,
+s1-036,U1,S3,36,y,partial,,Filip Hammar & Fredrik Wikingsson,photo spine at right end; title in pink unreadable
+s1-037,U1,S4,1,y,y,Iskallt och stenhårt,Richard Flinga,author spelling uncertain (Richard/Rickard)
+s1-038,U1,S4,2,y,y,Fiender överallt,Richard A. Clarke,
+s1-039,U1,S4,3,y,y,Flyg fula fluga,Patricia Cornwell,
+s1-040,U1,S4,4,y,y,Car Design,,taller blue book standing proud of the row
+s1-041,U1,S4,5,y,y,Clear and Present Danger,Tom Clancy,
+s1-042,U1,S4,6,y,y,Executive Orders,Tom Clancy,
+s1-043,U1,S4,7,y,y,SSN,Tom Clancy,
+s1-044,U1,S4,8,y,y,Utan misskund,Tom Clancy,
+s1-045,U1,S4,9,y,partial,,Alistair MacLean,green photo spine; title small (ends ...från Singapore?)
+s1-046,U1,S4,10,y,y,Golden Gate,Alistair MacLean,
+s1-047,U1,S4,11,y,y,H.M.S. Ulysses,Alistair MacLean,
+s1-048,U1,S4,12,y,y,Åtta glas,Alistair MacLean,
+s1-049,U1,S4,13,y,partial,Örnnästet,Alistair MacLean,title blurry
+s1-050,U1,S4,14,y,y,Spionlinan,Len Deighton,'Spion' in small red script before LINAN
+s1-051,U1,S4,15,y,y,Spionkroken,Len Deighton,'Spion' in small red script before KROKEN
+s1-052,U1,S4,16,y,y,Spionbetet,Len Deighton,'Spion' in small red script before BETET
+s1-053,U1,S4,17,y,y,Möte i Mexico,Len Deighton,
+s1-054,U1,S4,18,y,y,Coq Rouge,Jan Guillou,
+s1-055,U1,S4,19,y,partial,Den demokratiske terroristen,Jan Guillou,red title small and faint
+s1-056,U1,S4,20,y,y,I nationens intresse,Jan Guillou,
+s1-057,U1,S4,21,y,y,Ondskan,Jan Guillou,
+s1-058,U1,S4,22,y,y,Mustang,,author line small (Peter ...)
+s1-059,U1,S4,23,y,partial,Bossen / Dödens lammunge,Roger Borniche / Donald Westlake,two-novel omnibus; second title uncertain
+s1-060,U1,S4,24,y,y,Dubbelgångaren,Colin Forbes,
+s1-061,U1,S4,25,y,n,,,thin purple spine angled; text unreadable
+s1-062,U1,S4,26,y,y,Försvararen,John Grisham,
+s1-063,U1,S4,27,y,y,The Firm,John Grisham,
