@@ -86,4 +86,4 @@ Shelf photo replay, 63 books (`submission/`):
 | [`web/`](web/) | Phone page |
 | [`tests/`](tests/) | Tests |
 | [`docs/`](docs/) | Architecture note and failure log |
-| [`submission/`](submission/) | Packet, report, video, ground truth |
+| [`submission/`](submission/) | Packet, report, ground truth |
