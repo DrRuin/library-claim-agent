@@ -2,6 +2,12 @@
 
 A phone agent that films a home library, talks the policyholder through the sweep, and writes a contents claim packet: every book and item, priced, with a review queue and totals.
 
+## Walkthrough
+
+[![Watch the walkthrough, 12 min](walkthrough.jpg)](https://drruin.github.io/library-claim-agent/)
+
+The [sample claim report](https://drruin.github.io/library-claim-agent/report/report.html) opens in the browser.
+
 ## Install and run
 
 Needs [uv](https://docs.astral.sh/uv/) and a Gemini API key.
@@ -53,10 +59,10 @@ flowchart LR
 | Camera check | gemini-3.8-flash | Flags blur, glare or distance on each frame |
 | Reader | gemini-4-argon | Reads every spine and every other object in a frame |
 | Tracker | gemini-4-argon | Counts each book once across frames, in shelf order |
-| Identifier | gemini-4-argon + Search | Finds the work; Flash confirms it on the source page |
-| Pricer | gemini-4-argon + Search | New and used price in the local market; Flash rereads each price |
+| Identifier | gemini-4-argon + Search | Finds the work, and Flash confirms it on the source page |
+| Pricer | gemini-4-argon + Search | New and used price in the local market, and Flash rereads each price |
 | Measure | code | Spine and item sizes from an A4 sheet in view |
-| Room | gemini-4-argon + code | Model points at corners and doors; code computes floor and wall area |
+| Room | gemini-4-argon + code | Model points at corners and doors, and code computes floor and wall area |
 | Packet | code | Totals, review queue, report |
 
 Models make every judgement through a Pydantic schema. Code does the arithmetic.

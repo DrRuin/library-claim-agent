@@ -3,7 +3,7 @@
 | File | What it is |
 |---|---|
 | `claim_packet.json` | The claim packet |
-| `report.html` | The packet as a page; open in a browser |
+| `report.html` | The packet as a page, to open in a browser |
 | `walkthrough.mp4` | 88 s video |
 | `ground_truth/` | Hand count of the shelf photo, and the photo |
 | `crops/`, `frames/` | Images the report links to |
